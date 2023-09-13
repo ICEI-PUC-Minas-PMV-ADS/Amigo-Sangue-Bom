@@ -1,27 +1,27 @@
-# Título do Projeto
+# Amigo Sangue Bom 😄💉
 
-`CURSO`
+`ANÁLISE E DESENVOLVIMENTO DE SOFTWARE`
 
-`DISCIPLINA`
+`DESENVOLVIMENTO DE APLICAÇÃO WEB FRONT-END`
 
-`SEMESTRE`
+`2023/2º SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
+O Amigo Sangue Bom é uma plataforma Web desenvolvida com o objetivo de transformar a doação de sangue em um hábito comum e regular a fim de atrair um número cada vez maior de pessoas. Para tornar isso possível, unimos compaixão e tecnologia e desenvolvemos um site onde será possível criar campanhas, gerenciar doações, encontrar locais para doação de sangue e conscientizar o público-alvo.
 
-## Integrantes
+## Integrantes 👨🏻‍💻
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Brian Múcio Duarte
+* Erick Cambraia Nunes
+* Douglas Henrique de Sousa e Silva
+* Luiz Gustavo Rodrigues Pereira
+* Mateus Salomé Rocha Silva
+* Ranan Nonato Dias
 
-## Orientador
+## Orientador 👨🏻‍🏫
 
-* Nome completo do professor
+* Marco Rodrigo Costa
 
-# Documentação
+## Documentação 📃
 
 <ol>
 <li><a href="documentos/01-Documentação de Contexto.md"> Documentação de Contexto</a></li>
@@ -35,14 +35,16 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 <li><a href="documentos/09-Referências.md"> Referências Bibliográficas</a></li>
 </ol>
 
-# Hospedagem
+## Hospedagem 🔗
 
 * Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
 
-# Código-Fonte
+## Código-Fonte 💻
 
 * <a href="codigo-fonte/README.md">Código Fonte</a>
 
-# Apresentação
+## Apresentação
 
 * <a href="apresentacao/README.md">Apresentação do Projeto</a>
+
+
