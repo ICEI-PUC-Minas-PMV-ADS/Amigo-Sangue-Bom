@@ -7,16 +7,21 @@ Segundo dados de 2022 do Ministério da Saúde, atualmente o Brasil detém 1,4% 
 Diante desse contexto, observa-se a necessidade de promover uma iniciativa que fomente a doação consciente e constante pela sociedade, permitindo que os estoques permaneçam em níveis aceitáveis e continue ajudando a salvar vidas no território nacional. 
 
 ## Problema
-[Aqui a equipe deve fornecer uma descrição detalhada do problema a ser resolvido. Não é o momento adequado para abordar questões técnicas relacionadas ao desenvolvimento da aplicação. O objetivo é compreender e comunicar de maneira precisa qual é o desafio ou necessidade que motiva a criação da aplicação.]
 
-Este link pode ajudar a equipe a entender mais sobre definição do problema: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
+A problemática abordada por este projeto busca enfrentar os desafios associados à busca por informações confiáveis e pertinentes sobre o processo de doação de sangue, resultando em escassez e redução da procura por essa ação. As lacunas existentes nessas informações deixam de esclarecer os requisitos essenciais para a realização da doação de sangue, além de não eliminar todos os receios relacionados ao processo. Dessa forma, é evidente a ausência de diversos elementos essenciais para que a população altere sua condição de não doador.
 
 
 ## Objetivos
 
-[Aqui a equipe deve realizar uma descrição detalhada dos objetivos do trabalho, ressaltando quais as questões principais do problema a serem resolvidas pelo projeto, não é a hora de apresentar requisitos detalhados.]
+O principal objetivo desse projeto é fornecer informações úteis e pertinentes acerca do processo de doação de sangue. No ambiente proposto, os usuários poderão criar campanhas, gerenciar doações, encontrar locais para doação de sangue e conscientizar o público-alvo, beneficiando não só aqueles que desejam mudar sua condição de não doador mas também aqueles que já realizam a doação com frequência.
+
+Quanto aos objetivos específicos: 
+
+• Desenvolver um ambiente digital que contenha orientações e campanhas de conscientização para que os usuários possam acessar e conhecer sobre o processo de doação de sangue de forma descomplicada. 
+
+• Promover conscientização entre os usuários, incentivando-os a considerar a mudança de sua condição de não doador. 
+
  
-Este link pode ajudar a equipe a entender mais sobre definição dos objetivos: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
 
 ## Justificativa
 
