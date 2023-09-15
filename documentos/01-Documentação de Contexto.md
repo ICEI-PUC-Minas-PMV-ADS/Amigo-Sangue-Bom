@@ -1,6 +1,10 @@
 # Introdução
 
-[Aqui a equipe deve criar um texto descritivo com a visão geral do problema abordado, apresentando o ambiente e as situações envolvidas no problema.]
+A doação de sangue consiste em um ato solidário e de elevada importância para a sociedade. De acordo com a Fundação Hemominas (2021), “doar sangue requer responsabilidade, compromisso e, principalmente, solidariedade – qualidades que já nascem com a pessoa ou que podem ser cultivadas desde a infância e mesmo despertadas pelo exemplo alheio”.  
+
+Segundo dados de 2022 do Ministério da Saúde, atualmente o Brasil detém 1,4% da população doadora de sangue, número que apesar de estar dentro da recomendação da Organização Mundial de Saúde (OMS), é uma porcentagem que precisa crescer para manter os estoques regulares e sem risco de desabastecimento. 
+
+Diante desse contexto, observa-se a necessidade de promover uma iniciativa que fomente a doação consciente e constante pela sociedade, permitindo que os estoques permaneçam em níveis aceitáveis e continue ajudando a salvar vidas no território nacional. 
 
 ## Problema
 [Aqui a equipe deve fornecer uma descrição detalhada do problema a ser resolvido. Não é o momento adequado para abordar questões técnicas relacionadas ao desenvolvimento da aplicação. O objetivo é compreender e comunicar de maneira precisa qual é o desafio ou necessidade que motiva a criação da aplicação.]
@@ -16,11 +20,17 @@ Este link pode ajudar a equipe a entender mais sobre definição dos objetivos: 
 
 ## Justificativa
 
-[Aqui a equipe deve descrever a importância ou a motivação para trabalhar com o problema definido. Indique as razões pelas quais a equipe escolheu o problema e definiu os objetivos.
+Segundo a Portaria/MS nº 158 de 2016:
+“A manutenção de toda a cadeia produtiva do sangue depende de valores voluntários e altruístas da sociedade para o ato da doação, devendo o candidato à doação de sangue ser atendido sob os princípios da universalidade, integralidade e equidade no âmbito do Sistema Único de Saúde (SUS)”.
+Nesse sentido, percebe-se que a doação de sangue desempenha um papel fundamento no sistema de saúde de qualquer país, contribuindo diretamente para a sobrevivência de pacientes em situações críticas, como acidentes graves, cirurgias complexas, e demais tratamentos que requerem transfusões. Já Buhr e Novaes (2016), corroboram ao dizer:
+"As sensibilizações a doação espontânea de sangue contribuem para que não haja comprometimento do estoque de hemocomponentes nos serviços de hemoterapia, incentiva o cuidado com a saúde e a divulgação da cultura do "doador saudável" a população.”
 
-Devem ser apresentados dados de fontes relevantes e confiáveis sobre o problema, inserindo-o como alvo de estudo. Sugere-se que a equipe utilize questionários, entrevistas e dados estatísticos, que devem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pela equipe.]
+Dados do Ministério da Saúde de 2022 revelam que apenas 1,4% da população brasileira é doadora de sangue. Percebe-se que, apesar de sua importância, existem desafios significativos relacionados à escassez de doadores e à falta de conscientização adequada sobre o processo de doação de sangue.
 
-Este link pode ajudar a equipe a formular a justificativa: [Como montar a justificativa.](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+A falta de informações claras e confiáveis sobre o processo de doação de sangue é uma das principais barreiras que impedem os potenciais doadores de participar ativamente. Muitas pessoas têm dúvidas sobre o procedimento, os requisitos, os possíveis riscos e os benefícios da doação. Essas incertezas podem levar ao medo e à relutância em doar sangue, mesmo entre aqueles que gostariam de fazê-lo. Portanto, a disponibilidade de informações detalhadas e de fácil acesso é crucial para superar essas barreiras.
+
+Diante desse cenário, a criação de um ambiente digital acessível e de fácil utilização, que forneça informações abrangentes e confiáveis sobre a doação de sangue, se mostra como uma solução promissora. Através desse projeto, busca-se preencher a lacuna de conhecimento, dissipar receios infundados e incentivar a participação ativa da população na doação de sangue. A conscientização é uma ferramenta poderosa para gerar mudanças de comportamento, e a promoção de informações claras e confiáveis pode desempenhar um papel significativo na melhoria dos estoques de sangue e, consequentemente, no salvamento de vidas.
+
 
 ## Público-Alvo
 
