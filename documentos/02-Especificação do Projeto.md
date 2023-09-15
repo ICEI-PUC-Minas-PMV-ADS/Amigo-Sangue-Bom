@@ -72,8 +72,13 @@
 
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|---------------------------|----------------------------------|
-| ...                | ...                       | ...                              |
-| ...                | ...                       | ...                              |
+| Novo Doador(a)     | cadastrar para realizar doação de sangue     | que eu possa doar.                            |
+| Doador(a)          | responder questionário                       | verificar se é possível doar.                 |
+| Doador(a)          | saber a importância da doação de sangue      | conscientizar.                                |
+| Doador(a)          | consultar a quantidade de sangue em estoque  | verificar a emergência de cada tipo sanguíneo.|
+| Doador(a)          | compartilhar conteúdo                        | que possa conscientizar outras pessoas        |
+| Enfermeiro(a)      | visualizar cadastros de doadores             | que eu possa programar e planejar a consulta. |
+| Enfermeiro(a)      | viar e-mail para doadores cadastrados        | informar algum imprevisto.                    |
 
 ## Requisitos do Projeto
 
@@ -100,8 +105,10 @@
 
 |ID      | Descrição               |Prioridade |
 |--------|-------------------------|----|
-| RNF-01 |  ...                    | ...   | 
-| ...    |  ...                    | ...   | 
+| RNF-01 | O sistema deve ser acessível em todos os navegadores.               | Alta   | 
+| RNF-02 | O sistema deve conter somente front-end.                            | Média  | 
+| RNF-03 | O sistema deve ser desenvolvido por HTML, CSS e Javascript.         | Média  | 
+| RNF-04 | O sistema deve permitir que o cadastro seja feito em até 2 minutos. | Baixa  | 
 
 **Prioridade: Alta / Média / Baixa. 
 
