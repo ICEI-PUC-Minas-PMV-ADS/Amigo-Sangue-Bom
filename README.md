@@ -16,6 +16,7 @@ O Amigo Sangue Bom é uma plataforma Web desenvolvida com o objetivo de transfor
 * Luiz Gustavo Rodrigues Pereira
 * Mateus Salomé Rocha Silva
 * Ranan Nonato Dias
+* Teste 
 
 ## Orientador 👨🏻‍🏫
 
