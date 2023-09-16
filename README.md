@@ -1,8 +1,8 @@
 # Amigo Sangue Bom 😄💉
 
-`ANÁLISE E DESENVOLVIMENTO DE SISTEMA`
+`Análise e Desenvolvimento de Sistemas - PUC Minas`
 
-`DESENVOLVIMENTO DE APLICAÇÃO WEB FRONT-END`
+`Desenvolvimento de aplicação Web front-end`
 
 `2023/2º SEMESTRE`
 
