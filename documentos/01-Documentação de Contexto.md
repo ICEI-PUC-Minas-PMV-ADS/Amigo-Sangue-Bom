@@ -39,12 +39,6 @@ Diante desse cenário, a criação de um ambiente digital acessível e de fácil
 
 ## Público-Alvo
 
-[Aqui é necessário descrever os atores envolvidos no problema, destacando os diferentes perfis de usuários. O propósito é apresentar as características, necessidades, conhecimentos prévios e experiência com a tecnologia do público-alvo.
+Pesquisas realizadas pelo Ministério da Saúde revelam que a faixa etária predominante nas doações de sangue, representando 42% dos doadores frequentes, recai entre 18 e 30 anos, especialmente em áreas metropolitanas. Este cenário oferece oportunidades significativas ao projeto, visto que evidências do Pew Research Center, datadas de 2021, ressaltam que 84% dos indivíduos entre 18 e 29 anos são utilizadores ativos de plataformas sociais. 
 
-Sugere-se que a equipe utilize questionários e/ou entrevistas a fim de conhecer os atores que compõem o público alvo.]
-
-Os links abaixo podem ajudar a equipe a conhecer um pouco mais sobre o público-alvo. 
-
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-
+Portanto, a justificativa para este trabalho acadêmico é alicerçada na necessidade de otimizar o acesso às informações sobre doação de sangue, alinhando-se às preferências de um público jovem e conectado, que demonstra uma presença marcante em ambientes virtuais. O desenvolvimento de um ambiente online intuitivo e direcionado tem o potencial não apenas de educar, mas também de engajar essa parcela da população a se tornar parte ativa na causa da doação de sangue. 
