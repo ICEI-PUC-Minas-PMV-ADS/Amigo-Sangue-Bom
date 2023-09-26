@@ -60,8 +60,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 |-------------------------------------|------------------------------------|----------------------------------------|
 | Repositório de código fonte         | GitHub                             | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projetoamigosanguebom/tree/main/codigo-fonte |
 | Documentos do projeto               | GitHub                             | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projetoamigosanguebom/tree/main/documentos |
-| Projeto de Interface                | Figma                              | 
-http://.... |
+| Projeto de Interface                | Figma                              | https://www.figma.com/file/O9kXQjytUQMLz6vfe2z8jz/Interface-de-aplica%C3%A7%C3%A3o?type=design&node-id=0%3A1&mode=design&t=nUbXVNZCsEXixDDp-1) |
 | Gerenciamento do Projeto            | GitHub Projects                    | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/633|
 | Hospedagem                          | GitHub Pages                       | https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projetoamigosanguebom/  |
 
