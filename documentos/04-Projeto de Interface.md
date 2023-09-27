@@ -65,7 +65,7 @@ Conforme mostrado abaixo, na Figura 1, tem-se o fluxo de usuário. Este fluxo es
 </figure>
 
 
-### Protótipo de Alta Fidelidade
+## Protótipo de Alta Fidelidade
 
 ### Tela Principal e Sobre Projeto
 <figure> 
