@@ -70,7 +70,7 @@ Desenvolver um protótipo emerge como uma das maneiras mais ágeis e econômicas
 
 Tela Principal e Sobre Projeto
 <figure> 
-  <img src="/documentos/img/mainArea.png" width="500px"
+  <img src="pmv-ads-2023-2-e1-proj-web-t9-pmv-ads-2023-2-e1-projetoamigosanguebom\documentos\img\principalEprojeto.PNG" width="500px"
 </figure>
 
 
