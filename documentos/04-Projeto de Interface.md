@@ -17,48 +17,49 @@ Desenvolver um protótipo emerge como uma das maneiras mais ágeis e econômicas
 
 ### Protótipo de Baixa Fidelidade
 
-## Tela Home do Site
+### Tela Home do Site
 
+<figure>
 <img src="/documentos/img/mainArea.PNG" width="500px"
+</figure>
 
-
-## Tela: Sobre o Projeto
+### Tela: Sobre o Projeto
 
 <figure> 
   <img src="/documentos/img/aboutUs.PNG" width="500px"
 </figure>
 
-## Tela das Seções: "Como Doar" e "Agendamento"
+### Tela das Seções: "Como Doar" e "Agendamento"
 
 <figure> 
   <img src="/documentos/img/comoDoarEagendamento.PNG" width="700px"
 </figure>
 
-## Tela da Seção de "Campanhas"
+### Tela da Seção de "Campanhas"
 
 <figure> 
   <img src="/documentos/img/areaCampanha.PNG" width="500px"
 </figure>
 
-## Tela da Seção "Fale Conosco"
+### Tela da Seção "Fale Conosco"
 
 <figure> 
   <img src="/documentos/img/faleConosco.PNG" width="500px"
 </figure>
 
-## Tela da Seção "Footer"
+### Tela da Seção "Footer"
 
 <figure> 
   <img src="/documentos/img/footerArea.PNG" width="500px"
 </figure>
 
-## Tela de Cadastro
+### Tela de Cadastro
 
 <figure> 
   <img src="/documentos/img/telaCadastro.PNG" width="500px"
 </figure>
 
-## Tela de Validação de elegibilidade
+### Tela de Validação de elegibilidade
 
 <figure> 
   <img src="/documentos/img/telaValidacao.PNG" width="500px"
@@ -67,23 +68,23 @@ Desenvolver um protótipo emerge como uma das maneiras mais ágeis e econômicas
 
 ### Protótipo de Alta Fidelidade
 
-Tela Principal e Sobre Projeto
+### Tela Principal e Sobre Projeto
 <figure> 
-  <img src="/documentos/img/mainArea.PNG" width="500px"
+  <img src="/documentos/img/principalEprojeto.PNG" width="500px"
 </figure>
 
 
-Tela "Como Doar" e "Agendamento"
+### Tela "Como Doar" e "Agendamento"
 <figure> 
   <img src="/documentos/img/comoDeA.PNG" width="500px"
 </figure>
 
-Tela "Campanhas"
+### Tela "Campanhas"
 <figure> 
   <img src="/documentos/img/mainCampanha.PNG" width="500px"
 </figure>
 
-Tela "Fale Conosco" e "Footer"
+### Tela "Fale Conosco" e "Footer"
 
 <figure> 
   <img src="/documentos/img/faleConoscoEfooter.PNG" width="500px"
