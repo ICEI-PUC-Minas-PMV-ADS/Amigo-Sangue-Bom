@@ -27,7 +27,7 @@ O Scrum seguido pela equipe tem como objetivo organizar e priorizar as atividade
 
 <figure> 
   <img src="/documentos/img/Kanban.PNG" width="1000px"
-    <figcaption>Figura 2 - Kanban do Projeto </figcaption>
+    <figcaption>Figura 1 - Kanban do Projeto </figcaption>
 </figure> 
 
 ### Etiquetas
@@ -44,7 +44,7 @@ O Scrum seguido pela equipe tem como objetivo organizar e priorizar as atividade
 
 <figure> 
   <img src="https://user-images.githubusercontent.com/100447878/164068979-9eed46e1-9b44-461e-ab88-c2388e6767a1.png"
-    <figcaption>Figura 3 - Tela do esquema de cores e categorias</figcaption>
+    <figcaption>Figura 2 - Tela do esquema de cores e categorias</figcaption>
 </figure> 
   
 ### Ferramentas
