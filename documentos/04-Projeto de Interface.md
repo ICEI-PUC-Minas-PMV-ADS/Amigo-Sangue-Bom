@@ -3,10 +3,10 @@
 
 ## User Flow
 
-Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de navegação do usuário na aplicação. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
+Conforme mostrado abaixo na Figura 1, tem-se o fluxo de usuário e sua interação com a aplicação desenvolvida. Este fluxo está diretamente ligado ao Protótipo de baixa fidelidade do projeto, que foi criado por meio do Figma.
 
 <figure> 
-  <img src="/images/Fluxo de Usuário.png" width="800px"
+  <img src="/documentos/userflowx.png" width="1000px"
     <figcaption>Figura 4 - Fluxo de Usuário</figcaption>
 </figure> 
 
@@ -15,20 +15,78 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 
 Desenvolver um protótipo emerge como uma das maneiras mais ágeis e econômicas de validar uma ideia, conceito ou funcionalidade. Isso permite a interação, avaliação, modificação e aprovação das principais características de uma interface antes de entrar na fase de desenvolvimento. Leia o artigo [Protótipos: baixa, média ou alta fidelidade?](https://medium.com/ladies-that-ux-br/prot%C3%B3tipos-baixa-m%C3%A9dia-ou-alta-fidelidade-71d897559135).
 
-### Protótipo de baixa fidelidade
+### Protótipo de Baixa Fidelidade
 
-Protótipos de baixa fidelidade apresentam de forma simplificada o design da interface e o relacionamento entre suas páginas, permitindo evolução da proposta da solução. Neste projeto, os utilizaremos para apoiar a validação dos requisitos e efetuar mudanças dos mesmos, caso seja necessário, para menor impacto na codificação da aplicação.
+## Tela Home do Site
 
-[Elabore as principais interfaces gráficas da aplicação de modo que os requisitos funcionais sejam contemplados nas telas propostas.]
+<figure> 
+  <img src="/documentos/mainArea.png" width="500px"
+</figure>
 
-[Adicione aqui as telas da sua aplicação com seus devidos títulos.] 
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
->- Ferramentas:
->> - [Pencil](https://pencil.evolus.vn/)
->> - [MarvelApp](https://marvelapp.com/)
->> - [Figma](https://www.figma.com/)
+## Tela: Sobre o Projeto
+
+<figure> 
+  <img src="/documentos/aboutUs.png" width="500px"
+</figure>
+
+## Tela das Seções: "Como Doar" e "Agendamento"
+
+<figure> 
+  <img src="/documentos/comoDoarEagendamento.png" width="700px"
+</figure>
+
+## Tela da Seção de "Campanhas"
+
+<figure> 
+  <img src="/documentos/areaCampanha.png" width="500px"
+</figure>
+
+## Tela da Seção "Fale Conosco"
+
+<figure> 
+  <img src="/documentos/faleConosco.png" width="500px"
+</figure>
+
+## Tela da Seção "Footer"
+
+<figure> 
+  <img src="/documentos/footerArea.png" width="500px"
+</figure>
+
+## Tela de Cadastro
+
+<figure> 
+  <img src="/documentos/telaCadastro.png" width="500px"
+</figure>
+
+## Tela de Validação de elegibilidade
+
+<figure> 
+  <img src="/documentos/telaValidacao.png" width="500px"
+</figure>
 
 
+### Protótipo de Alta Fidelidade
+
+Tela Principal e Sobre Projeto
+<figure> 
+  <img src="/documentos/mainArea.png" width="500px"
+</figure>
+
+
+Tela "Como Doar" e "Agendamento"
+<figure> 
+  <img src="/documentos/comoDeA.png" width="500px"
+</figure>
+
+Tela "Campanhas"
+<figure> 
+  <img src="/documentos/mainCampanha.png" width="500px"
+</figure>
+
+Tela "Fale Conosco" e "Footer"
+
+<figure> 
+  <img src="/documentos/faleConoscoEfooter.png" width="500px"
+</figure>
 
