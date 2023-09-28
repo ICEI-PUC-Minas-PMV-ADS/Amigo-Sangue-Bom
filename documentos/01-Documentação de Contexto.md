@@ -13,13 +13,12 @@ A problemática abordada por este projeto busca enfrentar os desafios associados
 
 ## Objetivos
 
-O principal objetivo desse projeto é fornecer informações úteis e pertinentes acerca do processo de doação de sangue. No ambiente proposto, os usuários poderão criar campanhas, gerenciar doações, encontrar locais para doação de sangue e conscientizar o público-alvo, beneficiando não só aqueles que desejam mudar sua condição de não doador mas também aqueles que já realizam a doação com frequência.
+O principal objetivo deste projeto é desenvolver uma solução que forneça informações acerca do processo de doação de sangue, beneficiando não apenas aqueles que desejam mudar sua condição de não doador, mas também aqueles que já realizam doações com frequência.
 
-Quanto aos objetivos específicos: 
+Quanto aos objetivos específicos:
 
-• Desenvolver um ambiente digital que contenha orientações e campanhas de conscientização para que os usuários possam acessar e conhecer sobre o processo de doação de sangue de forma descomplicada. 
-
-• Promover conscientização entre os usuários, incentivando-os a considerar a mudança de sua condição de não doador. 
+• Desenvolver um ambiente no qual os usuários possam criar campanhas, gerenciar doações e encontrar locais para doação de sangue.
+• Promover conscientização entre os usuários, incentivando-os a considerar a mudança de sua condição de não doador.
 
  
 
