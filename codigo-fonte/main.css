@@ -9,6 +9,9 @@ html {
 
 body {
     font-family: Inter, sans-serif;
+    margin: 0;
+    top: 0;
+    box-sizing: border-box;
 }
 
 header {
@@ -157,7 +160,123 @@ main {
     background-color: #000;
 }
 
+/* ESTILIZAÇÕES FEITAS POR BRIAN (INÍCIO)*/
 
+aside {
+    height: 140vh;
+    background-color: #f3f3f3;
+    flex: 1;
+    padding: 20px;
+    padding-left: 60px;
+}
+
+aside #camp_title {
+    font-family: 'Ovo';
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 110%;
+    letter-spacing: 12.8px;
+    color: #be8f90;
+    text-align: end;
+    margin-top: 84px;
+}
+
+aside .pointer {
+    width: 14px;
+    height: 12px;
+    background-color: #a63539;
+    border: 2px solid #fff;
+    margin-top: -29px;
+
+}
+
+.camp_area {
+    display: grid;
+    flex-wrap: wrap;
+    grid-template-columns: repeat(2, 1fr);
+    margin-top: 80px;
+}
+
+.camp_publi {
+    
+    text-align: center;
+    margin: 0 auto 50px auto;
+}
+
+.form_date {
+    width: 143px;
+    height: 36px;
+    border-radius: 6px;
+    background-color: #a63539;   
+    margin-bottom: 15px;
+}
+
+.form_date_text {
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    letter-spacing: 2.88px;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 8px;
+
+}
+
+.camp_publi_title {
+    width: 600px;
+    color: #6E7781;
+    text-align: justify;
+    font-family: Roboto;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-top: 15px;
+}
+
+.camp_publi_subtitle {
+    width: 600px;
+    color: #a0a0a0;
+    text-align: justify;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 100;
+    line-height: 121%; /* 24.2px */
+    letter-spacing: 3.6px;
+    margin-top: 10px;
+}
+
+.icon_area {
+    display: flex;
+    width: 600px;
+}
+
+.fb-icon {
+    width: 200px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.camp_img img {
+    box-shadow: 0px 15px 30px #a0a0a0;
+}
+
+.camp_img img:hover {
+    box-shadow: 0px 30px 50px #a0a0a0;
+    transition: 0.5s;
+}
+
+/* ESTILIZAÇÕES FEITAS POR BRIAN (FIM)*/
+
+
+
+
+/*--------------------------------ÁREA DE RESPONSIVIDADE ----------------------------- */
 /*nav media*/
 @media only screen and (max-width: 768px) {
 
