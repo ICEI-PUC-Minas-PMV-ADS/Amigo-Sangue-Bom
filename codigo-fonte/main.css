@@ -292,6 +292,103 @@ aside .pointer {
 
 /* ESTILIZAÇÕES DA SECTION 3 POR RANAN */
 
+/* ESTILIZAÇÃO FOOTER POR MATEUS - INÍCIO */
+
+footer {
+    background-color: #A63539;
+    font-family: "Inter", sans-serif;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-top: auto;
+}
+
+footer ul {
+    list-style: none;
+}
+
+.footer-link {
+    text-decoration: none;
+    color: inherit;
+    padding: 2px;
+}
+
+.titulo-rodape {
+    color: #fff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    letter-spacing: 1.8px;
+    font-size: 1.125rem;
+    text-align: left;
+    cursor: pointer;
+    font-family: "Inter", sans-serif;
+    padding-left: 200px;
+}
+
+.secoes-rodape {
+   list-style-type: none;
+   padding: 0;
+}
+
+.itens-lista {
+    color: #fff;
+    padding-top: 15px;
+    letter-spacing: 1.8px;
+    font-size: 1.125rem;
+    text-align: left;
+    cursor: pointer;
+    font-family: "Inter", sans-serif;
+    padding-left: 200px;
+}
+
+#siga-nos {
+    color: #fff;
+    letter-spacing: 1.8px;
+    font-size: 1.125rem;
+    text-align: left;
+    cursor: pointer;
+    font-family: "Inter", sans-serif;
+    padding-left: 200px;
+}
+
+#rodape {
+    display: flex;
+}
+
+.titulo-rodape {
+    padding-bottom: 20px;
+}
+
+.itens-imagem .titulo-rodape {
+    padding-bottom: 30px;
+    margin-left: -200px;
+}
+
+.logo-redes {
+    display: inline;
+}
+
+.logo-redes:not(:last-child) {
+    margin-right: 20px;
+}
+
+.logo-redes :hover {
+    transform: scale(1.06);
+}
+
+.itens-lista:hover {
+    transform: scale(1.03);
+}
+
+.logo-redes img {
+    width: 34px;
+    height: 34px;
+}
+
+/* FIM DA ESTILIZAÇÃO DO FOOTER */
+
 
 /*--------------------------------ÁREA DE RESPONSIVIDADE ----------------------------- */
 /*nav media*/
