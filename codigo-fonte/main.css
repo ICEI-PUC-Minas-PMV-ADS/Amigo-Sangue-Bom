@@ -18,22 +18,28 @@ header {
 
     margin: 0 auto;
     width: 100%;
-    height: 100px;
+    height: 110px;
     display: flex;
     align-items: center;
-    justify-content: space-around;
-    background: transparent;
+    justify-content: space-between;
+    /* backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px); */
+
+    background: rgb(255, 255, 255);
     position: sticky;
     top: 0;
     transition: 0.3s;
-    padding: 30px 0px;
+    padding: 30px 0;
     z-index: 5;
 }
 
+.logo {
+
+    padding: 20px;
+}
 
 .logo img {
-    padding-top: 40px;
-    height: 125px;
+    height: 90px;
 }
 
 .nav-bar {
@@ -43,6 +49,7 @@ header {
 }
 
 a.nav-link {
+
     font-size: 1.2rem;
     display: block;
     margin: 2px;
@@ -199,7 +206,7 @@ aside .pointer {
 }
 
 .camp_publi {
-    
+
     text-align: center;
     margin: 0 auto 50px auto;
 }
@@ -208,7 +215,7 @@ aside .pointer {
     width: 143px;
     height: 36px;
     border-radius: 6px;
-    background-color: #a63539;   
+    background-color: #a63539;
     margin-bottom: 15px;
 }
 
@@ -246,7 +253,8 @@ aside .pointer {
     font-size: 20px;
     font-style: normal;
     font-weight: 100;
-    line-height: 121%; /* 24.2px */
+    line-height: 121%;
+    /* 24.2px */
     letter-spacing: 3.6px;
     margin-top: 10px;
 }
