@@ -1,0 +1,64 @@
+
+
+
+section.containerProjeto{
+    background-color: #F3F3F3;
+    padding: 120px 0 160px 0;
+}
+.h1-projeto {
+    color: #BE8F90;
+    font-family: 'Ovo', serif;
+    font-size: 100px;
+    position: relative;
+   margin-left: 180px;
+    font-size: 120px;
+    font-weight: 400;
+    line-height: 60px;
+    letter-spacing: 0.06em;
+
+}
+
+img.logo {
+    width: 695px;
+    height: 420px;
+    position: absolute;
+    top: 1000px;
+    left: 120px;
+}
+div.botaoPraCima {
+    background-color: #757272;
+    border: 1px solid rgb(134, 134, 134);
+    border-radius: 10px;
+    width: 55px;
+    height: 55px;
+    position: absolute;
+    text-align: center;
+    right: 100px;
+    top: 1650px;
+    
+}
+
+div.conteudo-projeto{
+    background-color: white;
+    color: #767676;
+    font-family: 'Lora', monospace;
+    font-size: 54px;
+    width: 1754px;
+    height: 693px;
+    padding: 40px 20px 15px 120px;
+    position: relative;
+    top: 60px;
+    left: 700px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, .25);
+    border-radius: 5px;
+   
+
+}
+div.conteudo-projeto > p {
+    text-align: justify;
+    letter-spacing: 2px;
+    line-height: 68.78px;
+    font-weight: 400;
+    margin: 50px 0 30px 100px;
+    
+}
