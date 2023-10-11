@@ -1,7 +1,7 @@
 #containerComoDoar{
     display: flex;
     flex-direction: column;
-    height: 100rem;
+    height: 130rem;
     background: #BE8F90; 
     
     align-items: end;  
@@ -95,7 +95,7 @@
 #linhaAgendamento{
     border: thin solid white;
     align-self: flex-end;
-    width: 900px;
+    width: 75%;
     margin: 50px 0px;
 }
 
@@ -114,3 +114,70 @@
     width: 100%
 }
 
+.alinhamentoRequisitos{
+    display: flex;
+    flex-direction: row;
+    border: 1px solid black;
+    justify-content: center;
+    width: 100%
+
+}
+
+#topicoNumber1{
+    align-self: center;
+}
+
+#map{
+    margin-top: 1.5rem;
+    margin-right: 5rem;
+    height: 110%;
+    width: 50%;
+}
+
+.calendar {
+    height: 57%;
+    font-weight: 30%;
+    width: 30%;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 8%;
+    background-color: #fff;
+}
+
+.month {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.days {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+}
+
+.day {
+    padding: 10px;
+    
+}
+
+#mapaCalenderio{
+    display: flex;
+    flex-direction: row;
+    gap: 5%;
+}
+
+.week{
+    color: #BEBEBE;
+}
+
+.dayoff {
+    padding: 10px;
+    color: #BEBEBE;
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+}
+
+#ButtonAgendar{
+    margin-top: 70px;
+    width: 100%;
+}
