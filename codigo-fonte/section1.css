@@ -1,16 +1,14 @@
-
-
-
-section.containerProjeto{
+section.containerProjeto {
     background-color: #F3F3F3;
     padding: 120px 0 160px 0;
 }
+
 .h1-projeto {
     color: #BE8F90;
     font-family: 'Ovo', serif;
     font-size: 100px;
     position: relative;
-   margin-left: 180px;
+    margin-left: 180px;
     font-size: 120px;
     font-weight: 400;
     line-height: 60px;
@@ -25,8 +23,9 @@ img.logo {
     top: 1000px;
     left: 120px;
 }
+
 div.botaoPraCima {
-    background-color: #757272;
+    background-color: #8d8c8c;
     border: 1px solid rgb(134, 134, 134);
     border-radius: 10px;
     width: 55px;
@@ -35,14 +34,16 @@ div.botaoPraCima {
     text-align: center;
     right: 100px;
     top: 1650px;
-    
 }
 
-div.conteudo-projeto{
+div.botaoPraCima:hover {
+    transform: scale(1.1);
+    box-shadow: 1px 1px 10px #A63539;
+    padding-bottom: 20px;
+}
+
+div.conteudo-projeto {
     background-color: white;
-    color: #767676;
-    font-family: 'Lora', monospace;
-    font-size: 54px;
     width: 1754px;
     height: 693px;
     padding: 40px 20px 15px 120px;
@@ -51,14 +52,84 @@ div.conteudo-projeto{
     left: 700px;
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, .25);
     border-radius: 5px;
-   
+
 
 }
-div.conteudo-projeto > p {
+
+div.conteudo-projeto>p {
+    color: #767676;
+    font-family: 'Lora', monospace;
+    font-size: 54px;
     text-align: justify;
     letter-spacing: 2px;
     line-height: 68.78px;
     font-weight: 400;
     margin: 50px 0 30px 100px;
-    
+
+}
+
+@media (max-width: 800px) {
+    .h1-projeto {
+        font-size: 55px;
+        margin-left: 410px;
+    }
+
+    img.logo {
+        width: 325px;
+        height: 220px;
+        position: absolute;
+        top: 700px;
+        left: 80px;
+    }
+
+    div.conteudo-projeto {
+        left: 80px;
+        width: 690px;
+    }
+
+    div.conteudo-projeto > p{
+        font-weight: 200;
+        margin: 0 1px;
+        font-size: 20px;
+        text-align: justify;
+        line-height: 59px;
+        letter-spacing: 3px;
+    }
+    div.botaoPraCima {        
+        right: 9%;
+        top: 1650px;
+    }
+}
+
+@media(min-width: 1200px) {
+    .h1-projeto {
+        font-size: 75px;
+        margin-left: 500px;
+    }
+
+    img.logo {
+        width: 325px;
+        height: 220px;
+        position: absolute;
+        top: 700px;
+        left: 80px;
+    }
+
+    div.conteudo-projeto {
+        left: 80px;
+        width: 1090px;
+    }
+
+    div.conteudo-projeto > p{
+        font-weight: 200;
+        margin: 0 1px;
+        font-size: 35px;
+        text-align: justify;
+        line-height: 60px;
+        letter-spacing: 6px;
+    }
+    div.botaoPraCima {        
+        right: 3%;
+        top: 1650px;
+    }
 }
