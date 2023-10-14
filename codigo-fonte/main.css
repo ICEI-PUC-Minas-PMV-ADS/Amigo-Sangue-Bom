@@ -3,12 +3,10 @@ html {
     /* reset */
     box-sizing: border-box;
     padding: 0;
-    margin: 0;
     scroll-behavior: smooth;
 }
 
 body {
-    font-family: Inter, sans-serif;
     margin: 0;
     top: 0;
     box-sizing: border-box;
@@ -25,7 +23,7 @@ header {
     /* backdrop-filter: blur(15px);
     -webkit-backdrop-filter: blur(15px); */
 
-    background: rgb(255, 255, 255);
+    background: rgba(255, 255, 255, 0.849);
     position: sticky;
     top: 0;
     transition: 0.3s;
@@ -117,7 +115,6 @@ main {
     justify-content: center;
     align-items: center;
     height: 60vh;
-    border-bottom: 1px solid red;
 }
 
 .container {
@@ -168,9 +165,20 @@ main {
 }
 
 /* ESTILIZAÇÕES FEITAS POR BRIAN (INÍCIO)*/
+.icon_model {
+    justify-content: end;
+    display: flex;
+}
+
+.icon_line_right {
+    width: 200px;
+    height: 12px;
+    background-color: #A63539;
+	transform: skew(20deg);
+}
 
 aside {
-    height: 140vh;
+    height: 130vh;
     background-color: #f3f3f3;
     flex: 1;
     padding: 20px;
@@ -186,7 +194,7 @@ aside #camp_title {
     letter-spacing: 12.8px;
     color: #be8f90;
     text-align: end;
-    margin-top: 84px;
+    margin-top: 40px;
 }
 
 aside .pointer {
