@@ -1,10 +1,5 @@
-*,
-html {
-    /* reset */
-    box-sizing: border-box;
-    padding: 0;
-    scroll-behavior: smooth;
-}
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200&display=swap');
+
 
 body {
     margin: 0;
@@ -13,7 +8,7 @@ body {
 }
 
 header {
-
+    box-sizing: border-box;
     margin: 0 auto;
     width: 100%;
     height: 110px;
@@ -31,27 +26,27 @@ header {
     z-index: 5;
 }
 
-.logo {
 
-    padding: 20px;
-}
 
 .logo img {
     height: 90px;
+    margin-left: 130px;
+    margin-top: 15px;
 }
 
 .nav-bar {
     list-style: none;
     position: relative;
-    display: inline-flex;
+    display: flex;
+}
+
+.nav-bar li {
+    width: 185px;
+    height: 15px;
 }
 
 a.nav-link {
-
-    font-size: 1.2rem;
-    display: block;
-    margin: 2px;
-    padding: 5px 10px;
+    font-size: 1.6rem;
     text-decoration: none;
     color: #000;
     cursor: pointer;
@@ -63,7 +58,6 @@ a.nav-link {
 }
 
 .nav-link:hover {
-    transform: scale(1.1);
     color: #A63539;
 }
 
@@ -93,21 +87,23 @@ a.nav-link {
 }
 
 .login_signup {
-    max-width: 100%;
-    width: 140px;
-    height: 35px;
+    width: 150px;
+    height: 40px;
     padding: 5px;
     background: #A63539;
     color: #fff;
     border-radius: 7px;
     border: 0;
     cursor: pointer;
-    transition: all .3s;
+    font-family: 'Inter', sans-serif;
+    font-style: 600;
+    font-size: 1.0rem;
+    margin-right: 5%;
 }
 
 .login_signup:hover {
-    transform: scale(1.1);
-    box-shadow: 1px 1px 10px #A63539;
+    background-color: #FBB6B6;
+    transition: all .3s;
 }
 
 main {
