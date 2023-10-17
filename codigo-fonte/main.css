@@ -29,8 +29,8 @@ header {
 
 
 .logo img {
-    height: 90px;
-    margin-left: 130px;
+    height: 80px;
+    margin-left: 50px;
     margin-top: 15px;
 }
 
@@ -41,12 +41,12 @@ header {
 }
 
 .nav-bar li {
-    width: 185px;
+    width: 150px;
     height: 15px;
 }
 
 a.nav-link {
-    font-size: 1.6rem;
+    font-size: 1.3rem;
     text-decoration: none;
     color: #000;
     cursor: pointer;
@@ -110,6 +110,7 @@ main {
     display: flex;
     justify-content: center;
     align-items: center;
+    padding-top: 80px;
     height: 60vh;
 }
 
@@ -123,17 +124,16 @@ main {
 .coluna2 {
     text-align: center;
     flex: 1;
-    padding: 20px;
+    padding: 50px;
     font-size: 1.2rem;
 }
 
 .intro {
-
     max-width: 360px;
 }
 
 .intro p {
-    font-size: 2rem;
+    font-size: 3rem;
     text-align: right;
 }
 
@@ -154,8 +154,7 @@ main {
 
 
 .video_sangue {
-
-    height: 100%;
+    height: 50vh;
     color: #fff;
     background-color: #000;
 }
@@ -174,7 +173,7 @@ main {
 }
 
 aside {
-    height: 130vh;
+    height: 170vh;
     background-color: #f3f3f3;
     flex: 1;
     padding: 20px;
@@ -384,7 +383,7 @@ footer {
     position: relative;
     bottom: 0;
     width: 100%;
-    height: 35vh;
+    height: 50vh;
     padding-bottom: 20px;
     padding-top: 20px;
     margin-top: auto;
@@ -392,6 +391,7 @@ footer {
 
 footer ul {
     list-style: none;
+    padding: 0;
 }
 
 .footer-link {
@@ -409,12 +409,12 @@ footer ul {
     text-align: left;
     cursor: pointer;
     font-family: "Inter", sans-serif;
-    padding-left: 200px;
+    padding-left: 100px;
 }
 
 .secoes-rodape {
    list-style-type: none;
-   padding: 0;
+   padding-right: 50px;
 }
 
 .itens-lista {
@@ -425,7 +425,7 @@ footer ul {
     text-align: left;
     cursor: pointer;
     font-family: "Inter", sans-serif;
-    padding-left: 200px;
+    padding-left: 100px;
     margin-top: 20px;
 }
 
@@ -436,7 +436,7 @@ footer ul {
     text-align: left;
     cursor: pointer;
     font-family: "Inter", sans-serif;
-    padding-left: 200px;
+    padding-left: 100px;
 }
 
 #rodape {
@@ -445,11 +445,12 @@ footer ul {
 
 .titulo-rodape {
     padding-bottom: 20px;
+    
 }
 
 .itens-imagem .titulo-rodape {
     padding-bottom: 30px;
-    margin-left: -200px;
+    padding-left: 10px;
 }
 
 .logo-redes {
@@ -549,14 +550,11 @@ footer ul {
     transform: translatex(0%);
 }
 
-/* Estilos para telas maiores (por exemplo, tablets e desktops) */
-@media (min-width: 768px) {
 
-    .coluna1,
-    .coluna2 {
-        flex: 1;
-    }
-}
+
+/* Estilos para telas maiores (por exemplo, tablets e desktops) */
+
 
 /* Estilos para telas menores (por exemplo, dispositivos móveis) */
 @media (max-width: 767px) {}
+
