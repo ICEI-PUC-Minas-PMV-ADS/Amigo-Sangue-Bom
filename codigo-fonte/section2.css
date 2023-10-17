@@ -8,10 +8,15 @@
 
 .how_donate {
     background-color: #BE8F90;
-    height: 230vh;
+    height: 138vh;
     padding-top: 50px;
 }
 
+.how_agendamento {
+    background-color: #BE8F90;
+    height: 100vh;
+    padding-top: 50px;
+}
 /* --------------> ESTILIZAÇÃO ÍCONE */
 
 .dot_area{
