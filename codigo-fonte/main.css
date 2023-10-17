@@ -470,13 +470,8 @@ footer ul {
 }
 
 /* Estilos para telas maiores (por exemplo, tablets e desktops) */
-@media (min-width: 768px) {
 
-    .coluna1,
-    .coluna2 {
-        flex: 1;
-    }
-}
 
 /* Estilos para telas menores (por exemplo, dispositivos móveis) */
 @media (max-width: 767px) {}
+
