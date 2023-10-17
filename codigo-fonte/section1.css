@@ -1,27 +1,33 @@
 section.containerProjeto {
     background-color: #F3F3F3;
-    padding: 120px 0 160px 0;
+    padding: 100px 0 160px 0;
 }
 
-.h1-projeto {
+.projeto_title {
+    display: flex;
+
+}
+
+.projeto_title h1 {
     color: #BE8F90;
     font-family: 'Ovo', serif;
-    font-size: 100px;
-    position: relative;
-    margin-left: 180px;
-    font-size: 120px;
+    font-size: 80px;
     font-weight: 400;
     line-height: 60px;
     letter-spacing: 0.06em;
+    margin-left: 40px;
 
 }
 
-img.logo {
-    width: 695px;
-    height: 420px;
-    position: absolute;
-    top: 1000px;
-    left: 120px;
+.logo_section1 {
+    display: flex;
+    align-items: center;
+}
+
+.logo_section1 img {
+    width: 250px;
+    height: 150px;
+    margin-left: 50px;
 }
 
 div.botaoPraCima {
@@ -42,29 +48,25 @@ div.botaoPraCima:hover {
     padding-bottom: 20px;
 }
 
-div.conteudo-projeto {
-    background-color: white;
-    width: 1754px;
-    height: 693px;
+.conteudo-projeto {
+    background-color: #fff;
+    width: 1034px;
+    height: 50%;
     padding: 40px 20px 15px 120px;
-    position: relative;
-    top: 60px;
-    left: 700px;
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, .25);
     border-radius: 5px;
-
-
+    margin-right: 2%;
 }
 
-div.conteudo-projeto>p {
+.conteudo-projeto>p {
     color: #767676;
-    font-family: 'Lora', monospace;
-    font-size: 54px;
     text-align: justify;
-    letter-spacing: 2px;
-    line-height: 68.78px;
+    font-family: Lora;
+    font-size: 28px;
+    font-style: normal;
     font-weight: 400;
-    margin: 50px 0 30px 100px;
+    line-height: 163.5%; /* 45.78px */
+    letter-spacing: 3.08px;
 
 }
 
@@ -102,17 +104,15 @@ div.conteudo-projeto>p {
 }
 
 @media(min-width: 1200px) {
+    
     .h1-projeto {
         font-size: 75px;
-        margin-left: 500px;
     }
 
     img.logo {
-        width: 325px;
-        height: 220px;
+        width: 280px;
+        height: 180px;
         position: absolute;
-        top: 700px;
-        left: 80px;
     }
 
     div.conteudo-projeto {
@@ -123,7 +123,7 @@ div.conteudo-projeto>p {
     div.conteudo-projeto > p{
         font-weight: 200;
         margin: 0 1px;
-        font-size: 35px;
+        font-size: 25px;
         text-align: justify;
         line-height: 60px;
         letter-spacing: 6px;
