@@ -307,23 +307,7 @@ section.containerProjeto {
     margin-left: 5%;
 }
 
-div.botaoPraCima {
-    background-color: #8d8c8c;
-    border: 1px solid rgb(134, 134, 134);
-    border-radius: 10px;
-    width: 55px;
-    height: 55px;
-    position: absolute;
-    text-align: center;
-    right: 100px;
-    top: 1650px;
-}
 
-div.botaoPraCima:hover {
-    transform: scale(1.1);
-    box-shadow: 1px 1px 10px #A63539;
-    padding-bottom: 20px;
-}
 
 .conteudo-projeto {
     background-color: #fff;
