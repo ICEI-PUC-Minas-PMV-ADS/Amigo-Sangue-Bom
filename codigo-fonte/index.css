@@ -1,4 +1,3 @@
-
 /* NÃO TIRAR AS FONTES DAQUI */
 @import url('https://fonts.googleapis.com/css2?family=Belanosima&family=Ovo&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
@@ -30,6 +29,7 @@ body {
     margin: 0;
     top: 0;
     box-sizing: border-box;
+    position: relative;
 }
 
 header {
@@ -184,6 +184,7 @@ iframe {
     text-align: justify;
     padding: 10px 0;
 }
+
 #title_estoque_blood {
     text-align: center;
     color: #767676;
@@ -219,7 +220,7 @@ iframe {
     grid-template-columns: repeat(4, 1fr);
     width: 80%;
     height: 25vh;
-    
+
 }
 
 .icon_blood {
@@ -326,7 +327,8 @@ section.containerProjeto {
     font-size: 28px;
     font-style: normal;
     font-weight: 400;
-    line-height: 163.5%; /* 45.78px */
+    line-height: 163.5%;
+    /* 45.78px */
     letter-spacing: 1.5px;
 
 }
@@ -344,7 +346,7 @@ section.containerProjeto {
 
 /* --------------> ESTILIZAÇÃO ÍCONE */
 
-.dot_area{
+.dot_area {
     display: flex;
     flex-direction: row;
     justify-content: end;
@@ -439,8 +441,8 @@ section.containerProjeto {
     justify-content: center;
     align-items: center;
     font-size: 32px;
-    font-family:'Roboto', sans-serif;
-    font-weight: 600;   
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
 }
 
 /* LADO ESQUERDO*/
@@ -454,7 +456,7 @@ section.containerProjeto {
     margin-left: 60px;
 }
 
-.step_text_area1:hover  {
+.step_text_area1:hover {
     background: #a63539;
     transition: ease 0.7s;
     color: #ffffff;
@@ -474,7 +476,8 @@ section.containerProjeto {
     font-size: 24px;
     font-style: normal;
     font-weight: 500;
-    line-height: 110%; /* 26.4px */
+    line-height: 110%;
+    /* 26.4px */
     letter-spacing: 3.36px;
 }
 
@@ -508,12 +511,13 @@ section.containerProjeto {
     font-size: 24px;
     font-style: normal;
     font-weight: 500;
-    line-height: 110%; /* 26.4px */
+    line-height: 110%;
+    /* 26.4px */
     letter-spacing: 2.5px;
 }
 
 
-.step_text_area2:hover  {
+.step_text_area2:hover {
     background: #a63539;
     transition: ease 0.7s;
     color: #ffffff;
@@ -549,12 +553,13 @@ section.containerProjeto {
     font-size: 24px;
     font-style: normal;
     font-weight: 500;
-    line-height: 110%; /* 26.4px */
+    line-height: 110%;
+    /* 26.4px */
     letter-spacing: 3.36px;
 }
 
 
-.step_text_area4:hover  {
+.step_text_area4:hover {
     background: #a63539;
     transition: ease 0.7s;
     color: #ffffff;
@@ -580,7 +585,8 @@ section.containerProjeto {
     font-size: 24px;
     font-style: normal;
     font-weight: 500;
-    line-height: 110%; /* 26.4px */
+    line-height: 110%;
+    /* 26.4px */
     letter-spacing: 3.36px;
 }
 
@@ -592,7 +598,7 @@ section.containerProjeto {
     margin-top: 45px;
 }
 
-.step_text_area3:hover  {
+.step_text_area3:hover {
     background: #a63539;
     transition: ease 0.7s;
     color: #ffffff;
@@ -614,7 +620,8 @@ section.containerProjeto {
     font-size: 24px;
     font-style: normal;
     font-weight: 500;
-    line-height: 110%; /* 26.4px */
+    line-height: 110%;
+    /* 26.4px */
     letter-spacing: 3.36px;
     padding: 5px 5px 2px 2px;
 }
@@ -626,7 +633,7 @@ section.containerProjeto {
     margin-top: 68px;
 }
 
-.step_text_area5:hover  {
+.step_text_area5:hover {
     background: #a63539;
     transition: ease 0.7s;
     color: #ffffff;
@@ -649,7 +656,7 @@ section.containerProjeto {
 .validation_text {
     width: 1200px;
     height: 100px;
-    
+
 }
 
 .validation_text h4 {
@@ -658,7 +665,8 @@ section.containerProjeto {
     font-family: Roboto;
     font-size: 28px;
     font-style: normal;
-    line-height: 110%; /* 30.8px */
+    line-height: 110%;
+    /* 30.8px */
     letter-spacing: 3.92px;
 }
 
@@ -670,8 +678,8 @@ section.containerProjeto {
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
     border: none;
     color: #FFF;
-    font-family:'Roboto', sans-serif;
-    font-weight: 600;   
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
     font-size: 20px;
     letter-spacing: 2.08px;
     text-transform: uppercase;
@@ -722,7 +730,7 @@ section.containerProjeto {
     justify-content: center;
 }
 
-.schedular_right{
+.schedular_right {
     display: grid;
     width: 100%;
     flex-wrap: wrap;
@@ -771,8 +779,8 @@ section.containerProjeto {
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
     border: none;
     color: #FFF;
-    font-family:'Roboto', sans-serif;
-    font-weight: 600;   
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
     font-size: 20px;
     letter-spacing: 2.08px;
     text-transform: uppercase;
@@ -799,16 +807,16 @@ section.containerProjeto {
 
 .day {
     padding: 10px;
-    
+
 }
 
-#mapaCalenderio{
+#mapaCalenderio {
     display: flex;
     flex-direction: row;
     gap: 5%;
 }
 
-.week{
+.week {
     color: #BEBEBE;
 }
 
@@ -832,7 +840,7 @@ section.containerProjeto {
     width: 200px;
     height: 12px;
     background-color: #A63539;
-	transform: skew(20deg);
+    transform: skew(20deg);
 }
 
 aside {
@@ -952,13 +960,14 @@ aside .pointer {
 /* ESTILIZAÇÕES DA SECTION 3 POR RANAN */
 
 
-.Cont{
+.Cont {
     width: 100%;
     height: 980px;
     flex-shrink: 0;
     background: #767676;
 
 }
+
 .text {
     width: 100%;
     height: 93px;
@@ -969,19 +978,20 @@ aside .pointer {
     font-size: 25px;
     font-style: normal;
     font-weight: 500;
-    line-height: 125%; /* 35.2px */
-    letter-spacing: 5.12px;    
+    line-height: 125%;
+    /* 35.2px */
+    letter-spacing: 5.12px;
     padding-top: 98px;
 
 }
 
 
-.form_cont label { 
+.form_cont label {
     display: flex;
     background-color: #767676;
     font-size: 20px;
     margin-bottom: 15px;
-    color:#BEBEBE;
+    color: #BEBEBE;
     padding-top: 25px;
     font-family: Roboto;
     text-align: center;
@@ -995,7 +1005,7 @@ aside .pointer {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    color:#BEBEBE;
+    color: #BEBEBE;
     font-family: Roboto;
     border-radius: 7px;
     border: none;
@@ -1013,6 +1023,7 @@ aside .pointer {
     resize: none;
     border: none;
 }
+
 .button_enviar {
     width: 150px;
     height: 40px;
@@ -1025,8 +1036,9 @@ aside .pointer {
     font-family: 'Inter', sans-serif;
     font-style: 600;
     font-size: 1.0rem;
-    
+
 }
+
 .button_enviar:hover {
     background-color: #FBB6B6;
     transition: all .3s;
@@ -1076,8 +1088,8 @@ footer ul {
 }
 
 .secoes-rodape {
-   list-style-type: none;
-   padding-right: 50px;
+    list-style-type: none;
+    padding-right: 50px;
 }
 
 .itens-lista {
@@ -1108,7 +1120,7 @@ footer ul {
 
 .titulo-rodape {
     padding-bottom: 20px;
-    
+
 }
 
 .itens-imagem .titulo-rodape {
@@ -1140,6 +1152,162 @@ footer ul {
 }
 
 /* FIM DA ESTILIZAÇÃO DO FOOTER */
+
+
+/* ESTILZIAÇÃO MODAL - ERICK*/
+.red-color,
+.red-error {
+    color: #A63539;
+}
+
+.red-error {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 3;
+}
+
+.button__primary,
+.button__secundary {
+    width: 150px;
+    height: 40px;
+    padding: 5px;
+    background: #A63539;
+    color: #fff;
+    border-radius: 7px;
+    border: 1px solid #A63539;
+    cursor: pointer;
+    font-family: 'Inter', sans-serif;
+    font-style: 600;
+    font-size: 1.0rem;
+    margin-right: 5%;
+}
+
+.button__secundary {
+    background-color: #fff;
+    color: #000;
+}
+
+.button__primary:hover,
+.button__secundary:hover {
+    background-color: #FBB6B6;
+    transition: all .3s;
+}
+
+.modal_cadastro {
+    display: none;
+    background-color: #fff;
+    border-radius: 7px;
+    box-shadow: 1px 1px 10px #00000096;
+    max-width: 450px;
+    padding: 20px;
+    top: 30px;
+    left: 45%;
+    z-index: 6;
+    position: absolute;
+}
+
+/* Input container */
+.input-container,
+.button__wrapper {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.button__wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+/* Input de texto */
+.input-field {
+    display: block;
+    max-width: 100%;
+    width: 430px;
+    margin: 10px 0;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 7px;
+    border: 1px solid #ccc;
+    outline: none;
+    background-color: transparent;
+    transition: all 0.3s ease;
+}
+
+
+/* Linha embaixo do input */
+.input-highlight {
+
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 2px;
+    width: 0;
+    background-color: #A63539;
+    transition: all 0.3s ease;
+}
+
+/* Input field:focus styles */
+.input-field:focus+.input-label {
+    top: -15px;
+    font-size: 12px;
+    color: #A63539;
+}
+
+.input-field:focus~.input-highlight {
+    width: 100%;
+}
+
+/* remove as setinhas do input do tipo número */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+input[type=number] {
+    -moz-appearance: textfield;
+}
+
+/* Customização da checkbox :D */
+.input-checkbox {
+    width: 1em;
+    height: 1em;
+    appearance: none;
+    border: 1px solid #A63539;
+    border-radius: 2px;
+    transition: all .3s;
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.input-checkbox:hover {
+    background-color: #82828240;
+}
+
+.input-checkbox:checked {
+    background-color: #A63539;
+}
+
+input[type="checkbox"]:checked::after {
+    content: '';
+    position: absolute;
+    top: 2px;
+    left: 8px;
+    width: 3px;
+    height: 7px;
+    opacity: 1;
+    transform: rotate(45deg) scale(1) translate(-86%, 25%);
+    border-right: 2px solid #fff;
+    border-bottom: 2px solid #fff;
+    transition: all 0.3s ease;
+    transition-delay: 0.15s;
+}
+
+/* FIM DA ESTILIZAÇÃO DO MODAL */
 
 
 /*--------------------------------ÁREA DE RESPONSIVIDADE ----------------------------- */
@@ -1192,7 +1360,7 @@ footer ul {
         margin: 0;
         height: 65px;
     }
-    
+
     .hamburger {
         position: absolute;
         top: 10px;
@@ -1206,7 +1374,7 @@ footer ul {
         width: 115px;
         height: 35px;
         font-size: 0.7rem;
-        
+
     }
 
     .nav-bar li {
@@ -1280,7 +1448,7 @@ footer ul {
         font-size: 35px;
     }
 
-    
+
 
     .logo_section1 img {
         width: 125px;
@@ -1328,7 +1496,7 @@ footer ul {
         font-size: 12px;
         line-height: 100%;
         margin: 0;
-        margin-top: 10px;    
+        margin-top: 10px;
     }
 
     .step_line_area1 {
@@ -1365,13 +1533,13 @@ footer ul {
         text-align: justify;
         margin-top: 210px;
     }
-    
+
 
     .step_text_area5 h4 {
         letter-spacing: 1.0px;
         font-size: 12px;
         padding: 0px 3px 2px 2px;
-        
+
     }
 
     .step_line_area5 {
@@ -1379,6 +1547,7 @@ footer ul {
         margin-top: 247px;
         margin-right: 240px;
     }
+
     /*RESPONSIVIDADE LADO ESQUERDO*/
 
     .steps_center {
@@ -1391,7 +1560,7 @@ footer ul {
         width: 170px;
         height: 900px;
     }
-    
+
     .step_line_area2 {
         width: 22px;
         margin-left: 59px;
@@ -1408,7 +1577,7 @@ footer ul {
         letter-spacing: 0.7px;
         font-size: 12px;
     }
-    
+
     .step_text_area4 {
         width: 137px;
         height: 90px;
@@ -1500,7 +1669,7 @@ footer ul {
         width: 320px;
         height: 250px;
     }
-    
+
     .calendar_main {
         width: 280px;
         height: 235px;
@@ -1516,7 +1685,7 @@ footer ul {
     }
 
     /* ÁREA DE CAMPANHAS (RESPONSIVA)*/
-    
+
     body {
         margin: 0;
     }
@@ -1524,7 +1693,7 @@ footer ul {
     aside {
         height: 185vh;
     }
-    
+
     .camp_area {
         display: grid;
         flex-wrap: wrap;
@@ -1574,6 +1743,7 @@ footer ul {
         width: 35px;
         height: 30px;
     }
+
     .text {
         font-size: 15px;
         line-height: 125%;
@@ -1649,7 +1819,7 @@ footer ul {
         width: 340px;
     }
 
-    .itens-lista{
+    .itens-lista {
         font-size: 0.8rem;
         width: 150px;
     }
@@ -1721,7 +1891,7 @@ footer ul {
         top: 0;
         margin: 0;
     }
-    
+
     .hamburger {
         position: absolute;
         top: 15px;
@@ -1799,7 +1969,7 @@ footer ul {
         font-size: 35px;
     }
 
-    
+
 
     .logo_section1 img {
         width: 125px;
@@ -1845,7 +2015,7 @@ footer ul {
         font-size: 12px;
         line-height: 100%;
         margin: 0;
-        margin-top: 10px;    
+        margin-top: 10px;
     }
 
     .step_line_area1 {
@@ -1882,13 +2052,13 @@ footer ul {
         text-align: justify;
         margin-top: 210px;
     }
-    
+
 
     .step_text_area5 h4 {
         letter-spacing: 1.0px;
         font-size: 12px;
         padding: 0px 3px 2px 2px;
-        
+
     }
 
     .step_line_area5 {
@@ -1896,6 +2066,7 @@ footer ul {
         margin-top: 245px;
         margin-right: 240px;
     }
+
     /*RESPONSIVIDADE LADO ESQUERDO*/
 
     .steps_center {
@@ -1908,7 +2079,7 @@ footer ul {
         width: 200px;
         height: 900px;
     }
-    
+
     .step_line_area2 {
         width: 29px;
         margin-left: 95px;
@@ -1925,7 +2096,7 @@ footer ul {
         letter-spacing: 0.7px;
         font-size: 12px;
     }
-    
+
     .step_text_area4 {
         width: 205px;
         height: 67px;
@@ -1983,7 +2154,7 @@ footer ul {
         font-size: 35px;
     }
 
-    .subtitle_how_donate h2{
+    .subtitle_how_donate h2 {
         font-size: 14px;
         margin-right: 2%;
         margin-left: 2%;
@@ -2013,7 +2184,7 @@ footer ul {
         width: 420px;
         height: 350px;
     }
-    
+
     .calendar_main {
         width: 280px;
         height: 235px;
@@ -2029,7 +2200,7 @@ footer ul {
     }
 
     /* ÁREA DE CAMPANHAS (RESPONSIVA)*/
-    
+
     body {
         margin: 0;
     }
@@ -2037,7 +2208,7 @@ footer ul {
     aside {
         height: 250vh;
     }
-    
+
     .camp_area {
         display: grid;
         flex-wrap: wrap;
@@ -2079,6 +2250,7 @@ footer ul {
         width: 35px;
         height: 30px;
     }
+
     .text {
         font-size: 15px;
         line-height: 125%;
@@ -2153,7 +2325,7 @@ footer ul {
         width: 382px;
     }
 
-    .itens-lista{
+    .itens-lista {
         font-size: 0.8rem;
         width: 150px;
     }
@@ -2179,7 +2351,7 @@ footer ul {
 
 /* TABLETES PEQUENOS */
 @media (min-width: 768px) and (max-width: 991px) {
-    
+
     header {
         justify-content: space-around;
         height: 80px;
@@ -2204,7 +2376,7 @@ footer ul {
         width: 105px;
         height: 15px;
     }
-    
+
     a.nav-link {
         font-size: 1rem;
         text-decoration: none;
@@ -2271,7 +2443,7 @@ footer ul {
         font-weight: 400;
         margin-left: 30px;
     }
-    
+
     .logo_section1 img {
         width: 195px;
         height: 99px;
@@ -2354,13 +2526,13 @@ footer ul {
         text-align: justify;
         margin-bottom: 103px;
     }
-    
+
 
     .step_text_area5 h4 {
         letter-spacing: 1.5px;
         font-size: 15px;
         padding: 3px 3px 2px 2px;
-        
+
     }
 
     .step_line_area5 {
@@ -2368,6 +2540,7 @@ footer ul {
         margin-top: 43px;
         margin-right: 176px;
     }
+
     /*RESPONSIVIDADE LADO ESQUERDO*/
 
     .steps_center {
@@ -2378,7 +2551,7 @@ footer ul {
     .steps_right {
         width: 346px;
     }
-    
+
     .step_line_area2 {
         width: 60px;
         margin-left: 27px;
@@ -2396,7 +2569,7 @@ footer ul {
         font-size: 15px;
         line-height: 110%;
     }
-    
+
     .step_text_area4 {
         width: 240px;
         height: 83px;
@@ -2443,7 +2616,7 @@ footer ul {
         font-size: 55px;
     }
 
-    .subtitle_how_donate h2{
+    .subtitle_how_donate h2 {
         font-size: 20px;
     }
 
@@ -2476,7 +2649,7 @@ footer ul {
         width: 560px;
         height: 380px;
     }
-    
+
     .calendar_main {
         width: 320px;
         height: 220px;
@@ -2488,7 +2661,7 @@ footer ul {
     }
 
     /* ÁREA DE CAMPANHAS (RESPONSIVA)*/
-    
+
     body {
         margin: 0;
     }
@@ -2496,7 +2669,7 @@ footer ul {
     aside {
         height: 305vh;
     }
-    
+
     .camp_area {
         display: grid;
         flex-wrap: wrap;
@@ -2592,7 +2765,7 @@ footer ul {
         width: 382px;
     }
 
-    .itens-lista{
+    .itens-lista {
         font-size: 0.8rem;
         width: 150px;
     }
@@ -2609,7 +2782,7 @@ footer ul {
 
 /* TABLETES GRANDES E NOTEBOOKS */
 @media (min-width: 992px) and (max-width: 1199px) {
-    
+
 
     header {
         justify-content: space-around;
@@ -2635,7 +2808,7 @@ footer ul {
         width: 130px;
         height: 15px;
     }
-    
+
     a.nav-link {
         font-size: 1.1rem;
         text-decoration: none;
@@ -2692,7 +2865,7 @@ footer ul {
         font-weight: 400;
         margin-left: 30px;
     }
-    
+
     .logo_section1 img {
         width: 220px;
         height: 130px;
@@ -2763,7 +2936,7 @@ footer ul {
         height: 99px;
         margin-left: 292px;
     }
-    
+
 
     .step_text_area5 h4 {
         font-size: 19px;
@@ -2777,6 +2950,7 @@ footer ul {
         margin-top: 54px;
         margin-right: 158px;
     }
+
     /*RESPONSIVIDADE LADO ESQUERDO*/
 
 
@@ -2784,7 +2958,7 @@ footer ul {
     .steps_right {
         width: 450px;
     }
-    
+
     .step_line_area2 {
         width: 84px;
         margin-left: 72px;
@@ -2800,7 +2974,7 @@ footer ul {
         letter-spacing: 2.0px;
         font-size: 19px;
     }
-    
+
     .step_text_area4 {
         height: 96px;
         margin-left: -52px;
@@ -2846,7 +3020,7 @@ footer ul {
         font-size: 55px;
     }
 
-    .subtitle_how_donate h2{
+    .subtitle_how_donate h2 {
         font-size: 20px;
     }
 
@@ -2871,7 +3045,7 @@ footer ul {
         width: 480px;
         height: 400px;
     }
-    
+
     .calendar_main {
         width: 320px;
         height: 220px;
@@ -2902,7 +3076,7 @@ footer ul {
         font-size: 15px;
         line-height: 125%;
         letter-spacing: 4px;
-       
+
     }
 
     .form_cont label {
@@ -2944,8 +3118,7 @@ footer ul {
     }
 
     .titulo-rodape,
-    .itens-lista
-     {
+    .itens-lista {
         font-size: 0.8rem;
     }
 
@@ -2967,7 +3140,7 @@ footer ul {
         width: 150px;
         height: 15px;
     }
-    
+
     a.nav-link {
         font-size: 1.2rem;
         text-decoration: none;
@@ -3002,7 +3175,7 @@ footer ul {
         font-weight: 400;
         margin-left: 30px;
     }
-    
+
     .conteudo-projeto>p {
         color: #767676;
         text-align: justify;
@@ -3065,7 +3238,7 @@ footer ul {
         height: 99px;
         margin-left: 292px;
     }
-    
+
 
     .step_text_area5 h4 {
         font-size: 19px;
@@ -3079,6 +3252,7 @@ footer ul {
         margin-top: 54px;
         margin-right: 55px;
     }
+
     /*RESPONSIVIDADE LADO ESQUERDO*/
 
 
@@ -3086,7 +3260,7 @@ footer ul {
     .steps_right {
         width: 614.5px;
     }
-    
+
     .step_line_area2 {
         width: 254px;
         margin-left: 148px;
@@ -3103,7 +3277,7 @@ footer ul {
         letter-spacing: 2.0px;
         font-size: 19px;
     }
-    
+
     .step_text_area2 {
         width: 350px;
         height: 205px;
@@ -3121,7 +3295,7 @@ footer ul {
         width: 221px;
         margin-top: 63px;
         margin-left: 150px;
-        
+
     }
 
     .step_text_area4 h4 {
@@ -3147,7 +3321,7 @@ footer ul {
         width: 550px;
         height: 450px;
     }
-    
+
     .calendar_main {
         width: 320px;
         height: 220px;
@@ -3181,7 +3355,7 @@ footer ul {
         font-size: 15px;
         line-height: 125%;
         letter-spacing: 4px;
-       
+
     }
 
     .form_cont label {
@@ -3212,6 +3386,7 @@ footer ul {
         width: 762px;
         border-radius: 7px;
     }
+
     /*RESPONSIVIDADE SECTION3  */
 
 
@@ -3220,7 +3395,7 @@ footer ul {
 
 /* TELAS GRANDES */
 @media (min-width: 1920px) {
-    
+
     header {
         height: 140px;
         display: flex;
@@ -3247,7 +3422,7 @@ footer ul {
         width: 200px;
         height: 15px;
     }
-    
+
     a.nav-link {
         font-size: 1.3rem;
         text-decoration: none;
@@ -3274,13 +3449,13 @@ footer ul {
     .step_text_area2 h4 {
         letter-spacing: 2.5px;
     }
-    
+
     .step_line_area4 {
         margin-top: 72px;
         margin-left: 223px;
     }
 
-    .step_text_area4 h4{
+    .step_text_area4 h4 {
         letter-spacing: 2.5px;
     }
 
@@ -3299,6 +3474,3 @@ footer ul {
 
 
 }
-
-
-
