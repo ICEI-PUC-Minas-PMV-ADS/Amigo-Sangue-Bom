@@ -1203,10 +1203,12 @@ footer ul {
     max-width: 450px;
     padding: 20px;
     top: 30px;
-    left: 45%;
     z-index: 6;
     position: absolute;
+    margin-left: 25%;
+    
 }
+
 
 /* Input container */
 .input-container,
