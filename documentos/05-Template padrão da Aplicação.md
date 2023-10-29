@@ -1,12 +1,46 @@
 # Template padrão da Aplicação
 
-Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
+O template padrão do site e suas áreas estáticas foram desenvolvidas através das linguagens de marcação; HTML e CSS. Quanto ao dinamismo dos botões e modais, utilizou-se a linguagem de programação Javascript.
 
-[Apresente a estrutura padrão da sua aplicação.]
 
-> **Links Úteis**:
->
-> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
-> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
-> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
-> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
+Os elementos padrões da aplicação serão: 
+- Header: menu de navegação do usuário;
+- Main: contem as principais informações do projeto;
+- Sections: compreende os requisitos para doação e agendamento;
+- Asides: área de publicações referentes à doação de sangue;
+- Footer;
+
+Enquanto elementos de identidade visual, tem-se:
+
+* Cores:
+
+| Cor             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Cor primária | ![#A63539](https://via.placeholder.com/10/A63539?text=+) #A63539 |
+| Cor secundária | ![#f8f8f8](https://via.placeholder.com/10/FBB6B6?text=+) #FBB6B6 |
+| Cor terciária | ![#00b48a](https://via.placeholder.com/10/BE8F90?text=+) #BE8F90 |
+
+* Font-family: Inter, Sans-serif, Ovo e Lora;
+* Font-size: 1.0rem e 1.5 rem
+
+O código desenvolvido para a construção dos elementos anteriormente mencionados estão disponíveis [clicando aqui](https://github.com/ICEI-PUC-Minas-PMV-ADS/Amigo-Sangue-Bom/tree/main/codigo-fonte).
+
+## Logotipo 
+
+Para criação do logotipo utilizou-se as cores que remetem à sangue e ao fundo um grupo de pessoas abraçadas fazendo referência à união.
+
+![Logo do site](../documentos/img/logoprojeto.png)
+
+
+## Tela principal de conscientização
+
+Exibe informações relativas à conscientização sobre a doação de sangue e um vídeo para incentivar os usuários 
+
+![Tela principal](../documentos/img/pagePrincipal.png)
+
+
+## Tela de Estoque e Níveis de Sangue
+
+![Estoque](../documentos/img/estoqueSange.png)
+
+
