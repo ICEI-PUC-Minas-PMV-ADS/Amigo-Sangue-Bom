@@ -2,7 +2,7 @@
 
 
 
-### Área de Cadastro (RF-001)
+## Área de Cadastro (RF-001)
 
 #### Responsável: Erick, Douglas e Mateus
 
@@ -34,12 +34,12 @@ Ao cliclar em "Cadastre-se" no canto superior direito, um modal será aberto na 
 
 
 
-### Tela de Triagem (RF-02)
+## Tela de Triagem (RF-02)
 
 Requisito em desenvolvimento...
 
 
-### Tela de Campanhas e Publicações (RF-003)
+## Tela de Campanhas e Publicações (RF-003)
 
 #### Responsável: Brian
 
@@ -69,7 +69,7 @@ Abra um navegador de Internet e informe a seguinte URL: https://brianmduarte.git
 
 Ao cliclar em "Campanhas" no menu de navegação, o usuário será direcionado para a seção correspondente.
 
-### Tela de Estoque e Níveis de Sangue (RF-004)
+## Tela de Estoque e Níveis de Sangue (RF-004)
 
 #### Responsável: Brian e Erick
 
@@ -96,15 +96,15 @@ Abra um navegador de Internet e informe a seguinte URL: https://brianmduarte.git
 Ao cliclar em sobre o ícone da "Logo Amigo Sangue Bom" no menu de navegação, o usuário será direcionado para a seção correspondente.
 
 
-### O sistema deve permitir que enfermeiros visualizem os cadastros de doadores para planejar consultas e coletas de sangue. (RF-005)
+## O sistema deve permitir que enfermeiros visualizem os cadastros de doadores para planejar consultas e coletas de sangue. (RF-005)
 
 Requisito em desenvolvimento...
 
-### O sistema deve permitir que enfermeiros enviem e-mails aos doadores cadastrados para informar sobre imprevistos ou atualizações. (RF-006)
+## O sistema deve permitir que enfermeiros enviem e-mails aos doadores cadastrados para informar sobre imprevistos ou atualizações. (RF-006)
 
 Requisito em desenvolvimento...
 
-### Tela de Campanhas e Publicações. (RF-007) 
+## Tela de Campanhas e Publicações. (RF-007) 
 
 #### Responsável: Ranan e Luiz
 
