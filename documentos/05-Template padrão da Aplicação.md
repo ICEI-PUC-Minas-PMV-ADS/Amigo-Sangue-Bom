@@ -43,4 +43,47 @@ Exibe informações relativas à conscientização sobre a doação de sangue e 
 
 ![Estoque](../documentos/img/estoqueSange.png)
 
+Exibe para o usuário informações sobre os níveis atuais de estoque de sangue e orientações para que saiba o melhor momento para doar.
+
+## Tela Sobre o Projeto
+
+![O Projeto](../documentos/img/pageProjeto.png)
+
+Exibe o objetivo do projeto.
+
+## Tela de Requisitos para Doação
+
+![Como Doar](../documentos/img/pageComoDoar.png)
+
+Exibe um diagrama simples com os principais recomendações para a doação de sangue e um botão onde é possível fazer validações.
+
+## Tela para Agendamento
+
+![Agendamento](../documentos/img/pageAgendamento.png)
+
+Exibe um calendário e um botão que direciona o usuário para efetivar a doação de sangue.
+
+
+## Tela de Campanhas e Publicações
+
+![Campanhas](../documentos/img/pageCampanhas.png)
+
+Exibe campanhas de conscientização sobre a doação de sangue.
+
+## Tela de Fale Conosco
+
+![Fale Conosco](../documentos/img/pageDuvidas.png)
+
+Exibe tela onde o usuário pode tirar dúvidas, enviar relatos e sugestões.
+
+## Tela de Footer
+Exibe o rodapé da página 
+
+![Footer](../documentos/img/pageFooter.png)
+
+
+
+
+
+
 
