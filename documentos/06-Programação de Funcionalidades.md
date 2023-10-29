@@ -76,7 +76,7 @@ Ao cliclar em "Campanhas" no menu de navegação, o usuário será direcionado p
 O acesso à tela de níveis de estoque de sangue está contida na primeira seção do site e poderá ser acessada clicando sobre a Logo do site. 
 
 Exemplo da Tela de Estoque:
-![Requisito funcional 3](../documentos/img/pageSangue)
+![Requisito funcional 3](../documentos/img/pageSangue.png)
 
 
 Requisito atendido
@@ -96,11 +96,15 @@ Abra um navegador de Internet e informe a seguinte URL: https://brianmduarte.git
 Ao cliclar em sobre o ícone da "Logo Amigo Sangue Bom" no menu de navegação, o usuário será direcionado para a seção correspondente.
 
 
-## O sistema deve permitir que enfermeiros visualizem os cadastros de doadores para planejar consultas e coletas de sangue. (RF-005)
+## Tela de Visualização de Cadastros. (RF-005)
+
+RF-005: O sistema deve permitir que enfermeiros visualizem os cadastros de doadores para planejar consultas e coletas de sangue
 
 Requisito em desenvolvimento...
 
-## O sistema deve permitir que enfermeiros enviem e-mails aos doadores cadastrados para informar sobre imprevistos ou atualizações. (RF-006)
+## Tela de Envio de e-mails (RF-006)
+
+RF-007: O sistema deve permitir que enfermeiros enviem e-mails aos doadores cadastrados para informar sobre imprevistos ou atualizações.
 
 Requisito em desenvolvimento...
 
