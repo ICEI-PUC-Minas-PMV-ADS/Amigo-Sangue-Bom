@@ -1,44 +1,135 @@
 # Programação de Funcionalidades
 
-Implementação da aplicação descritas por meio dos requisitos codificados. 
-
-[Utilize a estrutura abaixo para cada funcionalidade entregue na etapa]
-
-### Título da funcionalidade
-
-[Adicione imagem da funcionalidade/tela]
 
 
-#### Requisito atendido
+### Área de Cadastro (RF-001)
 
-[RF-X: adicione a descrição do requisito atendido]
+#### Responsável: Erick, Douglas e Mateus
 
+O acesso à tela de cadastro poderá ser feita através da opção no menu principal em "Cadastre-se". As estruturas de dados foram baseadas em HTML, CSS e JS.
+
+Exemplo da tela de cadastro:
+![Requisito funcional 1](../documentos/img/pageModal.png)
+
+Requisito atendido
+
+RF-001: O sistema deve permitir que o usuário faça um cadastro.
 
 #### Artefatos da funcionalidade
 
-[Adicione os nomes dos arquivos relacionados ao desenvolvimento da funcionalidade]
+* index.html
+* index.css
+* index.js
 
 
 #### Estrutura de Dados
 
-[Caso exista estrutura de dados, adicione aqui]
-
+* index.html
 
 #### Instruções de acesso
 
-[Adicione as orientações de acesso à funcionalidade]
+Abra um navegador de Internet e informe a seguinte URL: https://brianmduarte.github.io/Amigo_Sangue_Bom/
 
-
-#### Responsável
-
-[Adicione nome do responsável pelo desenvolvimento da funcionalidade]
+Ao cliclar em "Cadastre-se" no canto superior direito, um modal será aberto na mesma página para efetuar o cadastro.
 
 
 
+#### RF-02 - O sistema deve possuir um formulário de triagem para avaliar a elegibilidade do doador antes de doar.
 
-> **Links Úteis**:
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+Requisito em desenvolvimento...
+
+
+#### O sistema deve fornecer informações sobre a importância e os benefícios da doação de sangue. (RF-003)
+
+#### Responsável: Brian
+
+O acesso poderá ser feito através do menu de navegação na parte superior do site ao clicar em "Campanhas".
+
+Exemplo da área de Campanhas:
+![Requisito funcional 3](../documentos/img/pageCampanhas.png)
+
+Requisito atendido
+
+RF-003: O sistema deve fornecer informações sobre a importância e os benefícios da doação de sangue.
+
+#### Artefatos da funcionalidade
+
+* index.html
+* index.css
+* index.js
+
+
+#### Estrutura de Dados
+
+* index.html
+
+#### Instruções de acesso
+
+Abra um navegador de Internet e informe a seguinte URL: https://brianmduarte.github.io/Amigo_Sangue_Bom/
+
+Ao cliclar em "Campanhas" no menu de navegação, o usuário será direcionado para a seção correspondente.
+
+#### Tela de Estoque e Níveis de Sangue (RF-004)
+
+#### Responsável: Brian e Erick
+
+O acesso à tela de níveis de estoque de sangue está contida na primeira seção do site e poderá ser acessada clicando sobre a Logo do site. 
+
+Exemplo da Tela de Estoque:
+![Requisito funcional 3](../documentos/img/pageSangue)
+
+
+Requisito atendido
+
+RF-004: O sistema deve mostrar a quantidade de cada tipo sanguíneo disponível.
+
+#### Artefatos da funcionalidade
+
+* index.html
+* index.css
+* index.js
+
+#### Instruções de acesso
+
+Abra um navegador de Internet e informe a seguinte URL: https://brianmduarte.github.io/Amigo_Sangue_Bom/
+
+Ao cliclar em sobre o ícone da "Logo Amigo Sangue Bom" no menu de navegação, o usuário será direcionado para a seção correspondente.
+
+
+#### O sistema deve permitir que enfermeiros visualizem os cadastros de doadores para planejar consultas e coletas de sangue. (RF-005)
+
+Requisito em desenvolvimento...
+
+#### O sistema deve permitir que enfermeiros enviem e-mails aos doadores cadastrados para informar sobre imprevistos ou atualizações. (RF-006)
+
+Requisito em desenvolvimento...
+
+#### Tela de Campanhas e Publicações. (RF-007) 
+
+#### Responsável: Ranan e Luiz
+
+O acesso poderá ser feito através do menu de navegação na parte superior do site ao clicar em "Campanhas".
+
+Exemplo da área de Campanhas:
+![Requisito funcional 7](../documentos/img/pageCampanhas.png)
+
+Requisito atendido
+
+RF-007: O sistema deve permitir que usuários compartilhem informações educativas sobre doação de sangue em suas redes sociais
+
+#### Artefatos da funcionalidade
+
+* index.html
+* index.css
+* index.js
+
+#### Estrutura de Dados
+
+* index.html
+
+#### Instruções de acesso
+
+Abra um navegador de Internet e informe a seguinte URL: https://brianmduarte.github.io/Amigo_Sangue_Bom/
+
+Ao cliclar em "Campanhas" no menu de navegação, o usuário será direcionado para a seção correspondente.
 

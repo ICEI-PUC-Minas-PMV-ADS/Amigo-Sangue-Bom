@@ -55,13 +55,13 @@ Exibe o objetivo do projeto.
 
 ![Como Doar](../documentos/img/pageComoDoar.png)
 
-Exibe um diagrama simples com os principais recomendações para a doação de sangue e um botão onde é possível fazer validações.
+Exibe um diagrama simples com as principais recomendações para a doação de sangue e um botão onde é possível fazer validações.
 
 ## Tela para Agendamento
 
 ![Agendamento](../documentos/img/pageAgendamento.png)
 
-Exibe um calendário e um botão que direciona o usuário para efetivar a doação de sangue.
+Exibe um calendário, um botão que direciona o usuário para efetivar a doação de sangue, e um mapa para que o usuário possa visualizar o local mais próximo à sua residência.
 
 
 ## Tela de Campanhas e Publicações
