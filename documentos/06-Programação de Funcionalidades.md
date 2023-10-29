@@ -34,7 +34,7 @@ Ao cliclar em "Cadastre-se" no canto superior direito, um modal será aberto na 
 
 
 
-## Tela de Triagem (RF-02)
+## Tela de Triagem (RF-002)
 
 Requisito em desenvolvimento...
 
