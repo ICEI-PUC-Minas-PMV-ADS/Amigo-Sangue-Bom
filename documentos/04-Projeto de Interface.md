@@ -6,7 +6,7 @@
 Conforme mostrado abaixo, na Figura 1, tem-se o fluxo de usuário. Este fluxo está diretamente ligado ao Protótipo de baixa fidelidade do projeto, que foi criado por meio do Figma e também é apresentado mais abaixo.
 
 <figure> 
-  <img src="/documentos/img/userflowx.PNG" width="1000px"
+  <img src="/documentos/img/userflow.PNG" width="1000px"
     <figcaption>Figura 3 - Fluxo de Usuário</figcaption>
 </figure> 
 
