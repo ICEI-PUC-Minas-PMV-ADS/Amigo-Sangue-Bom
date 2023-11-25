@@ -73,12 +73,13 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/Amigo-Sangue-Bom/assets/106874869/bc46
     
 ![Teste RF03 _ 02.jpg](https://github.com/ICEI-PUC-Minas-PMV-ADS/Amigo-Sangue-Bom/blob/main/documentos/img/Teste%20RF03_02.png)
 
-  <p> Na imagem abaixo o vídeo foi executado corretamente, sendo possível visualiza-lo completamente.</p>
-    
-![Teste RF03 _ 03](https://github.com/ICEI-PUC-Minas-PMV-ADS/Amigo-Sangue-Bom/blob/main/documentos/img/Teste%20RF03_03.png)
+  <p> Na gravação abaixo o vídeo foi executado corretamente, sendo possível visualiza-lo completamente.</p>    
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/Amigo-Sangue-Bom/assets/141466989/bc37fe4c-c84e-4830-af7f-d4b6022673c9
+
 
   </li>
-  <hr>
+
 
   <hr>
   
