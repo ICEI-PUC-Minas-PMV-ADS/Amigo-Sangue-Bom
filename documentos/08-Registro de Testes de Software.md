@@ -12,19 +12,19 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
     
   <p>Acesso a pagina "Como Doar":</p>
     
-![Teste RF02 _ 01](https://github.com/ICEI-PUC-Minas-PMV-ADS/Amigo-Sangue-Bom/blob/main/documentos/img/Teste RF02 _ 01.jpg)
+![Teste RF02 _ 01](https://github.com/ICEI-PUC-Minas-PMV-ADS/Amigo-Sangue-Bom/blob/main/documentos/img/Teste%20RF02%20_%2001.jpg)
 
   <p>Acesso ao Fomulario de Elegibilidade:</p>
     
-![Teste RF02 _ 02.jpg](https://github.com/ICEI-PUC-Minas-PMV-ADS/Amigo-Sangue-Bom/blob/main/documentos/img/Teste RF02 _ 02.jpg)
+![Teste RF02 _ 02.jpg](https://github.com/ICEI-PUC-Minas-PMV-ADS/Amigo-Sangue-Bom/blob/main/documentos/img/Teste%20RF02%20_%2002.jpg)
 
   <p> Na imagem abaixo todos os dados foram preeenchidos e elegem o doador como apto.</p>
     
-![Teste RF02 _ 03](https://github.com/ICEI-PUC-Minas-PMV-ADS/Amigo-Sangue-Bom/blob/main/documentos/img/Teste RF02 _ 03.jpg)
+![Teste RF02 _ 03](https://github.com/ICEI-PUC-Minas-PMV-ADS/Amigo-Sangue-Bom/blob/main/documentos/img/Teste%20RF02%20_%2003.jpg)
 
   <p>Na imagem abaixo os dados foram preenchidos porem não atendem aos pré-requisitos tornando o doador inapto:</p>
     
-![Teste RF02 _ 04](https://github.com/ICEI-PUC-Minas-PMV-ADS/Amigo-Sangue-Bom/blob/main/documentos/img/Teste RF02 _ 04.jpg)
+![Teste RF02 _ 04](https://github.com/ICEI-PUC-Minas-PMV-ADS/Amigo-Sangue-Bom/blob/main/documentos/img/Teste%20RF02%20_%2004.jpg)
 
 
 
