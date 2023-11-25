@@ -105,3 +105,35 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <td>Ranan</td>
  </tr>
 </table>
+
+
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+  <td>CT-04: Verificar se o sistema fornece informações a respeito da doação de sangue</td>
+  <td>
+   <ul>
+    <li>RF-03: O sistema deve fornecer informações sobre a importância e os benefícios da doação de sangue.</li>
+   </ul>
+  </td>
+  <td> Verificar se o vídeo que fornece informações importantes sobre a doação de sangue está sendo exibido corretamente.
+</td>
+  <td> 
+   <ol>
+    <li>Acessar o navegador</li>
+    <li>Informar o endereço do site</li>
+    <li>Acessar página principal</li>
+    <li>Executar o vídeo da página principal</li>
+   </ol>
+   </td>
+  <td>O vídeo deve ser executado diretamente da home page do site de forma que seja possível visualizá-lo completamente.</td>
+  <td>Mateus</td>
+ </tr>
+</table>
