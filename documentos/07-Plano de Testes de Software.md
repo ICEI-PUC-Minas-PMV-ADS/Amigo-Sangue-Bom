@@ -117,7 +117,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>CT-04: Verificar se o sistema fornece informações a respeito da doação de sangue</td>
+  <td>CT-04: Verificar se o sistema fornece informações a respeito da importância da doação de sangue.</td>
   <td>
    <ul>
     <li>RF-03: O sistema deve fornecer informações sobre a importância e os benefícios da doação de sangue.</li>
@@ -133,7 +133,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
     <li>Executar o vídeo da página principal</li>
    </ol>
    </td>
-  <td>O vídeo deve ser executado diretamente da home page do site de forma que seja possível visualizá-lo completamente.</td>
+  <td>O vídeo deve ser executado diretamente da home page do site de forma que seja possível visualiza-lo completamente.</td>
   <td>Mateus</td>
  </tr>
 </table>
