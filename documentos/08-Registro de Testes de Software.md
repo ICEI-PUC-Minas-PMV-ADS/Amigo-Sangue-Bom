@@ -59,3 +59,23 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/Amigo-Sangue-Bom/assets/106874869/bc46
 
   </li>
   <hr>
+
+  
+<li> CT-04: Verificar se o sistema fornece informações a respeito da importância da doação de sangue.
+
+  Responsável: Mateus.
+    
+  <p>Acesso a pagina principal do site:</p>
+    
+![Teste RF03 _ 01](https://github.com/ICEI-PUC-Minas-PMV-ADS/Amigo-Sangue-Bom/blob/main/documentos/img/Teste%20RF03_01.png)
+
+  <p>Local onde o vídeo está localizado na principal do site.</p>
+    
+![Teste RF03 _ 02.jpg](https://github.com/ICEI-PUC-Minas-PMV-ADS/Amigo-Sangue-Bom/blob/main/documentos/img/Teste%20RF03_02.png)
+
+  <p> Na imagem abaixo o vídeo foi executado corretamente, sendo possível visualiza-lo completamente.</p>
+    
+![Teste RF03 _ 03](https://github.com/ICEI-PUC-Minas-PMV-ADS/Amigo-Sangue-Bom/blob/main/documentos/img/Teste%20RF03_03.png)
+
+  </li>
+  <hr>
