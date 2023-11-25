@@ -9,13 +9,36 @@ Pré-requisitos: Especificação do Projeto e Projeto de Interface
 
 Os testes funcionais a serem realizados na aplicação são descritos a seguir.
 
-
-|Caso de Teste    | CT-01 - Funcionamento de Links da página Principal |
-|:---|:---|
-| Requisitos Associados | RF-01: O sistema deve permitir que o usuário faça um cadastro. |RF-02: O sistema deve possuir um formulário de triagem para avaliar a elegibilidade do doador antes de doar.|RF-03: O sistema deve fornecer informações sobre a importância e os benefícios da doação de sangue.|RF-04: O sistema deve mostrar a quantidade de cada tipo sanguíneo disponível.|
-RF-06: O sistema deve permitir que usuários compartilhem informações educativas sobre doação de sangue em suas redes sociais.|
-| Objetivo do Teste | Verificar se os menus de navegação e butões estão funcionais e com o direcionamento correto |
-| Passos | 1. Acessar o navegador | 1. Acessar o navegador |2. Informar o endereço do site |3. Visualizar a página principal |4. Clicar nos links e butões da página|
-| Critérios de êxito | Todos os links da página principal devem encaminhar os usuários para as respectivas páginas  |
-| Responsável pela elaborar do caso de Teste | Brian |
- 
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+  <td>CT-01: Identificar o funcionamento de links da página Principal</td>
+  <td>
+   <ul>
+    <li>RF-01: O sistema deve permitir que o usuário faça um cadastro.</li>
+   <li>RF-02: O sistema deve possuir um formulário de triagem para avaliar a elegibilidade do doador antes de doar.</li>
+   <li>RF-03: O sistema deve fornecer informações sobre a importância e os benefícios da doação de sangue.</li>
+    <li>RF-04: O sistema deve mostrar a quantidade de cada tipo sanguíneo disponível.</li>
+    <li>RF-06: O sistema deve permitir que usuários compartilhem informações educativas sobre doação de sangue em suas redes sociais.</li>
+   </ul>
+  </td>
+  <td>Verificar se os menus de navegação e butões estão funcionais e com o direcionamento correto.</td>
+  <td>
+   <ol>
+    <li>1. Acessar o navegador</li>
+    <li>2. Informar o endereço do site</li>
+    <li>3. Visualizar a página principal.</li>
+    <li>4. Clicar nos links e butões da página.</li>
+   </ol>
+   </td>
+  <td>Todos os links da página principal devem encaminhar os usuários para as respectivas páginas.</td>
+  <td>Brian</td>
+ </tr>
+</table>
