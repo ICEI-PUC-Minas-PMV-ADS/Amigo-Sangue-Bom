@@ -15,9 +15,23 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 https://github.com/ICEI-PUC-Minas-PMV-ADS/Amigo-Sangue-Bom/assets/106874869/ab1e224e-ab74-402e-b846-37ec8397f3a1
 
   </li>
-  <hr>
+
+ <hr>
+
  <hr>
   
+  <li> CT-02: Identificar os níveis atuais de estoque de sangue.
+
+  Responsável: Brian
+    
+  <p>Acesso a pagina "Principal":</p>
+    
+
+
+  </li>
+
+ <hr> 
+
   <li> CT-03: Verificar o funcionamento do formulario de triagem.
 
   Responsável: Ranan.
