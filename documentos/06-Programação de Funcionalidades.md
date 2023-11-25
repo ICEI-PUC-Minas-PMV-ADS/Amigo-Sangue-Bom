@@ -8,7 +8,7 @@
 
 O acesso à tela de cadastro poderá ser feita através da opção no menu principal em "Cadastre-se". As estruturas de dados foram baseadas em HTML, CSS e JS.
 
-Exemplo da tela de cadastro:
+Exemplo da tela de cadastro:<br>
 ![Requisito funcional 1](../documentos/img/pageModal.png)
 
 Requisito atendido
@@ -40,7 +40,8 @@ Ao cliclar em "Cadastre-se" no canto superior direito, um modal será aberto na 
 
 O acesso à tela de validação de requisitos deve ser feita através do menu de navegação, na guia "Como Doar". As estruturas de dados foram baseadas em HTML, CSS e JS.
 
-Exemplo da tela de Validação de Requisitos:
+Exemplo da tela de Validação de Requisitos: <br>
+
 ![Requisito funcional 1](../documentos/img/telaValidacao.PNG)
 
 Requisito atendido
@@ -71,7 +72,7 @@ Ao cliclar em na opção "Como Doar" do menu de navegação, irá visualizar o b
 
 O acesso poderá ser feito através do menu de navegação na parte superior do site ao clicar em "Campanhas".
 
-Exemplo da área de Campanhas:
+Exemplo da área de Campanhas:<br>
 ![Requisito funcional 3](../documentos/img/pageCampanhas.png)
 
 Requisito atendido
@@ -101,7 +102,7 @@ Ao cliclar em "Campanhas" no menu de navegação, o usuário será direcionado p
 
 O acesso à tela de níveis de estoque de sangue está contida na primeira seção do site e poderá ser acessada clicando sobre a Logo do site. 
 
-Exemplo da Tela de Estoque:
+Exemplo da Tela de Estoque:<br>
 ![Requisito funcional 3](../documentos/img/pageSangue.png)
 
 
@@ -135,7 +136,7 @@ Requisito em desenvolvimento...
 
 O acesso poderá ser feito através do menu de navegação na parte superior do site ao clicar em "Campanhas".
 
-Exemplo da área de Campanhas:
+Exemplo da área de Campanhas:<br>
 ![Requisito funcional 7](../documentos/img/pageCampanhas.png)
 
 Requisito atendido
