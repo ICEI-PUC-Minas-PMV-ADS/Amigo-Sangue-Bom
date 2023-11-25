@@ -137,3 +137,35 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <td>Mateus</td>
  </tr>
 </table>
+
+
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+  <td>CT-05: Verificar o formulário de cadastro </td>
+  <td>
+   <ul>
+    <li>RF-01: O sistema deve permitir que o usuário faça um cadastro.</li>
+   </ul>
+  </td>
+  <td> O formulário de cadastro deve obter regras para validação ou não dos dados. </td>
+  <td> 
+   <ol>
+    <li>Acessar o navegador</li>
+    <li>Informar o endereço do site</li>
+    <li>Clicar em Cadastra-se</li>
+    <li> Preencher os dados </li>
+    <li>Clicar na opção "Validar"</li>
+   </ol>
+   </td>
+  <td>Após o preenchimento do formlário ele devera retornar com um resposta se cadastrável ou não.</td>
+  <td> Luiz </td>
+ </tr>
+</table>
