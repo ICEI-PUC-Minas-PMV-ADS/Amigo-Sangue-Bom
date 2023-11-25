@@ -32,10 +32,10 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <td>Verificar se os menus de navegação e butões estão funcionais e com o direcionamento correto.</td>
   <td>
    <ol>
-    <li>1. Acessar o navegador</li>
-    <li>2. Informar o endereço do site</li>
-    <li>3. Visualizar a página principal.</li>
-    <li>4. Clicar nos links e butões da página.</li>
+    <li>Acessar o navegador</li>
+    <li>Informar o endereço do site</li>
+    <li>Visualizar a página principal.</li>
+    <li>Clicar nos links e butões da página.</li>
    </ol>
    </td>
   <td>Todos os links da página principal devem encaminhar os usuários para as respectivas páginas.</td>
