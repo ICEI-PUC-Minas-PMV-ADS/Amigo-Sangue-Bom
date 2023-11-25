@@ -73,3 +73,35 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <td>Brian</td>
  </tr>
 </table>
+
+ 
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+  <td>CT-02: Verificar o formulario de triagem  r</td>
+  <td>
+   <ul>
+    <li>RF-02: O sistema deve possuir um formulário de triagem para avaliar a elegibilidade do doador antes de doar .</li>
+   </ul>
+  </td>
+  <td> O fomulario de triagem deve abranger questionamentos essenciais para eleger ou não um doador </td>
+  <td> 
+   <ol>
+    <li>Acessar o navegador</li>
+    <li>Informar o endereço do site</li>
+    <li>Acessar página principal</li>
+    <li>Acessar a area de Como Doar</li>
+    <li>Clicar na opção "Validar"</li>
+   </ol>
+   </td>
+  <td>Após o preenchimento do formlário ele devera retornar com um resposta se é ou não elegivel.</td>
+  <td>Ranan</td>
+ </tr>
+</table>
