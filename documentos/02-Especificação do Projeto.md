@@ -83,7 +83,7 @@
 |  RF-02  |  O sistema deve possuir um formulário de triagem para avaliar a elegibilidade do doador antes de doar.                    | ALTA   |
 |  RF-03  |  O sistema deve fornecer informações sobre a importância e os benefícios da doação de sangue.                     | ALTA   |
 |  RF-04  |  O sistema deve mostrar a quantidade de cada tipo sanguíneo disponível.                    | ALTA   |
-|  RF-05  |  O sistema deve permitir que os doadores cadastrados visualizem os cadastros de doadores para planejar consultas e coletas de sangue.                     | MÉDIA   |
+|  RF-05  |  O sistema deve permitir que os doadores cadastrados visualizem os seus perfis e façam alterações.                     | MÉDIA   |
 |  RF-06  |  O sistema deve permitir que usuários compartilhem informações educativas sobre doação de sangue em suas redes sociais.                     | BAIXA   |
 
 
