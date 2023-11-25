@@ -79,3 +79,19 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/Amigo-Sangue-Bom/assets/106874869/bc46
 
   </li>
   <hr>
+
+  <hr>
+  
+  <li> CT-05: Verificar o funcionamento do cadastro.
+
+  Responsável: Luiz
+    
+  <p>Acesso à página "Principal":</p>
+    
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/Amigo-Sangue-Bom/assets/137580591/7d036a7e-21e6-48a1-8e46-af658f367391
+
+
+  </li>
+
+ <hr>
