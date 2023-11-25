@@ -12,8 +12,7 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
     
   <p>Acesso a pagina "Principal":</p>
     
-![Teste RF01 _ 01](./img/20231125_163943.mp4)
-
+https://github.com/ICEI-PUC-Minas-PMV-ADS/Amigo-Sangue-Bom/assets/106874869/ab1e224e-ab74-402e-b846-37ec8397f3a1
 
   </li>
   <hr>
