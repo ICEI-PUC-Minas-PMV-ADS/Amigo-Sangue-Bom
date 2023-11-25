@@ -85,7 +85,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>CT-02: Verificar o formulario de triagem  r</td>
+  <td>CT-03: Verificar o formulario de triagem  r</td>
   <td>
    <ul>
     <li>RF-02: O sistema deve possuir um formulário de triagem para avaliar a elegibilidade do doador antes de doar .</li>
