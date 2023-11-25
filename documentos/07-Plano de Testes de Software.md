@@ -42,3 +42,34 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <td>Brian</td>
  </tr>
 </table>
+
+
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+  <td>CT-02: Identificar os níveis atuais de Estoque de Sangue</td>
+  <td>
+   <ul>
+    <li>RF-04: O sistema deve mostrar a quantidade de cada tipo sanguíneo disponível.</li>
+   </ul>
+  </td>
+  <td>Verificar se a tela principal traz informações atuais sobre os níveis de estoque de sangue para que o doador saiba o melhor momento para doar</td>
+  <td>
+   <ol>
+    <li>Acessar o navegador</li>
+    <li>Informar o endereço do site</li>
+    <li>Acessar página principal</li>
+    <li>Rolar o scroll do mouse para a área de estoque de sangue</li>
+   </ol>
+   </td>
+  <td>A área de estoque de sangue deve conter todos os tipos sanguíneos e o nível atual de estoque para cada um deles.</td>
+  <td>Brian</td>
+ </tr>
+</table>
