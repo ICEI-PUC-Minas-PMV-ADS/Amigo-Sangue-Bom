@@ -71,7 +71,7 @@
 | Doador(a)          | consultar a quantidade de sangue em estoque  | verificar a emergência de cada tipo sanguíneo.|
 | Doador(a)          | compartilhar conteúdo                        | que possa conscientizar outras pessoas        |
 | Enfermeiro(a)      | visualizar cadastros de doadores             | que eu possa programar e planejar a consulta. |
-| Enfermeiro(a)      | viar e-mail para doadores cadastrados        | informar algum imprevisto.                    |
+
 
 ## Requisitos do Projeto
 
@@ -84,8 +84,8 @@
 |  RF-03  |  O sistema deve fornecer informações sobre a importância e os benefícios da doação de sangue.                     | ALTA   |
 |  RF-04  |  O sistema deve mostrar a quantidade de cada tipo sanguíneo disponível.                    | ALTA   |
 |  RF-05  |  O sistema deve permitir que enfermeiros visualizem os cadastros de doadores para planejar consultas e coletas de sangue.                     | MÉDIA   |
-|  RF-06  |  O sistema deve permitir que enfermeiros enviem e-mails aos doadores cadastrados para informar sobre imprevistos ou atualizações.                    | MÉDIA   |
-|  RF-07  |  O sistema deve permitir que usuários compartilhem informações educativas sobre doação de sangue em suas redes sociais.                     | BAIXA   |
+
+|  RF-06  |  O sistema deve permitir que usuários compartilhem informações educativas sobre doação de sangue em suas redes sociais.                     | BAIXA   |
 
 
 **Prioridade: Alta / Média / Baixa. 

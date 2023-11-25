@@ -7,7 +7,7 @@ Conforme mostrado abaixo, na Figura 1, tem-se o fluxo de usuário. Este fluxo es
 
 <figure> 
   <img src="/documentos/img/userflowx.PNG" width="1000px"
-    <figcaption>Figura 3 - Fluxo de Usuário</figcaption>
+    <figcaption>Figura 1 - Fluxo de Usuário</figcaption>
 </figure> 
 
 
@@ -67,23 +67,35 @@ Conforme mostrado abaixo, na Figura 1, tem-se o fluxo de usuário. Este fluxo es
 
 ## Protótipo de Alta Fidelidade
 
-### Tela Principal e Sobre Projeto
+### Tela Principal
 <figure> 
   <img src="/documentos/img/principalEprojeto.PNG" width="500px"
 </figure>
 
-
-### Tela "Como Doar" e "Agendamento"
+### Tela "Sobre o projeto"
 <figure> 
-  <img src="/documentos/img/comoDeA.PNG" width="500px"
+  <img src="/documentos/img/projeto.png" width="500px"
 </figure>
+
+
+### Tela "Como Doar"
+<figure> 
+  <img src="/documentos/img/comodoar.png" width="500px"
+</figure>
+
+
+### Tela "Como Doar"
+<figure> 
+  <img src="/documentos/img/agendamento.png" width="500px"
+</figure>
+
 
 ### Tela "Campanhas"
 <figure> 
-  <img src="/documentos/img/mainCampanha.PNG" width="500px"
+  <img src="/documentos/img/campanhas.png" width="500px"
 </figure>
 
-### Tela "Fale Conosco" e "Footer"
+### Tela "Fale Conosco"
 
 <figure> 
   <img src="/documentos/img/faleConoscoEfooter.PNG" width="500px"
