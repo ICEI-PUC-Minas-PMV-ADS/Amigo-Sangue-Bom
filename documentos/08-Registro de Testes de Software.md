@@ -4,6 +4,19 @@ Relatório com as evidências dos testes de software realizados na aplicação p
 
 Os resultados dos testes funcionais realizados na aplicação são descritos a seguir. 
 
+<hr>
+  
+  <li> CT-01: Verificar o funcionamento dos links das páginas.
+
+  Responsável: Brian
+    
+  <p>Acesso a pagina "Principal":</p>
+    
+![Teste RF01 _ 01](./img/20231125_163943.mp4)
+
+
+  </li>
+  <hr>
  <hr>
   
   <li> CT-03: Verificar o funcionamento do formulario de triagem.
