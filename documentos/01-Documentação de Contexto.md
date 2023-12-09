@@ -17,7 +17,7 @@ O principal objetivo deste projeto é desenvolver uma solução que forneça inf
 
 Quanto aos objetivos específicos:
 
-• Desenvolver um ambiente no qual os usuários possam criar campanhas, gerenciar doações e encontrar locais para doação de sangue.    
+• Desenvolver um ambiente no qual os usuários possam visualizar campanhas, agendar doações e encontrar locais para doação de sangue.    
 • Promover conscientização entre os usuários, incentivando-os a considerar a mudança de sua condição de não doador.
 
 
