@@ -37,7 +37,7 @@ O objetivo deste projeto é fornecer informações acerca do processo de doaçã
 
 ## Hospedagem 🔗
 
-* Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
+* [Página Amigo Sangue Bom](https://icei-puc-minas-pmv-ads.github.io/Amigo-Sangue-Bom/codigo-fonte/) 
 
 ## Código-Fonte 💻
 
